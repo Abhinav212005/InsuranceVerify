@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_04",
+ "category": "identity_document",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "INCOME TAX DEPARTMENT GOVT. OF INDIA Permanent Account Number WNKRT5509U Name MANISH SINGH Father's Name POOJA SINGH Date of Birth 1986-06-08 Signature",
+ "fields": {
+  "document_type": "PAN Card",
+  "name": "Manish Singh",
+  "id_number": "WNKRT5509U",
+  "date_of_birth": "1986-06-08",
+  "father_name": "Pooja Singh",
+  "expiry_date": null
+ }
+}

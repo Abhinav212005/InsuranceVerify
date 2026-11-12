@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_04",
+ "category": "insurance_policy",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "Unity First Insurance POLICY SCHEDULE Policy No: POL-2023-682883 Policyholder: Arjun Pillai Period of Insurance: 14-01-2026 to 2024-09-19 Sum Insured: Rs. 2,809,250 Premium: Rs. 39,500 This schedule forms part of your policy and should be read with the policy wording.",
+ "fields": {
+  "customer_name": "Arjun Pillai",
+  "policy_number": "POL-2023-682883",
+  "insurance_company": "Unity First Insurance",
+  "policy_start_date": "2026-01-14",
+  "policy_end_date": "2024-09-19",
+  "premium_amount": "39500.00",
+  "coverage_amount": "2809250.00"
+ }
+}

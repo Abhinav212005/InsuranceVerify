@@ -1,0 +1,138 @@
+{
+  "cases": 360,
+  "status_accuracy": 1.0,
+  "per_code": {
+    "CLAIM_NUMBER_MISSING": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "DATE_ORDER": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "FUTURE_DATE": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "INVALID_AMOUNT": {
+      "tp": 60,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "INVALID_DATE": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "LOW_CONFIDENCE_FIELD": {
+      "tp": 30,
+      "fp": 30,
+      "fn": 0,
+      "precision": 0.5,
+      "recall": 1.0
+    },
+    "LOW_OCR_CONFIDENCE": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "MISSING_FIELD": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "POLICY_EXPIRED": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "POLICY_NUMBER_MISSING": {
+      "tp": 30,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "by_defect": {
+    "missing policy number": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "absurd premium": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "zero premium": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "control (no defect)": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "impossible date (31/02)": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "expiry before start": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "poor OCR quality": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "control claim (no defect)": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "missing premium": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "incident date in the future": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "expired policy": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    },
+    "missing claim number": {
+      "cases": 30,
+      "status_accuracy": 1.0,
+      "exact_issue_match": 1.0
+    }
+  }
+}

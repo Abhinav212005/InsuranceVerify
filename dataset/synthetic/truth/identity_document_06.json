@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_06",
+ "category": "identity_document",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "DRIVING LICENCE DL No MP83 33094888306 Name Ananya Rao Date of Birth 1962-02-20 Date of issue 05/05/2026 Valid upto 19/12/2039 Address Jaipur Signature",
+ "fields": {
+  "document_type": "Driving Licence",
+  "name": "Ananya Rao",
+  "id_number": "MP83 33094888306",
+  "date_of_birth": "1962-02-20",
+  "father_name": null,
+  "expiry_date": "2039-12-19"
+ }
+}

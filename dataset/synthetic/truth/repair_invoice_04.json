@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_04",
+ "category": "repair_invoice",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "Highway King Motors TAX INVOICE Invoice No INV-2024-80964 Vehicle Number TS13MF3494 Make and Model Tata Nexon Odometer 22036 km Labour Charges 4,250 Spare Parts 15700.00 GST 18% 550.00 Total 7,700",
+ "fields": {
+  "garage_name": "Highway King Motors",
+  "vehicle_details": "Tata Nexon, TS13MF3494",
+  "invoice_number": "INV-2024-80964",
+  "repair_date": null,
+  "total_repair_cost": "7700.00"
+ }
+}

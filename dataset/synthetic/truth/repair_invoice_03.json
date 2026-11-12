@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_03",
+ "category": "repair_invoice",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "Service Centre Bill Car: Maruti Swift Plate UP46IK9131 Mechanic notes: oil change, brake pads, engine tune up HSN 8708 parts 11400.00 Labour 1,650 Invoice total 123,050 Thank you for visiting Star",
+ "fields": {
+  "garage_name": "Star",
+  "vehicle_details": "Maruti Swift, UP46IK9131",
+  "invoice_number": null,
+  "repair_date": null,
+  "total_repair_cost": "123050.00"
+ }
+}

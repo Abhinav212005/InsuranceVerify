@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_03",
+ "category": "medical_bill",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "Discharge Summary and Bill Admitted 13/06/2026, discharged 21/07/2026 Ward: General Surgery performed: appendectomy Operation theatre charges 38400.00 Medical expenses total 289,850 Insurance TPA: Evergreen Life and General",
+ "fields": {
+  "hospital_name": null,
+  "patient_name": null,
+  "invoice_number": null,
+  "invoice_date": "2026-07-21",
+  "total_amount": "289850.00"
+ }
+}

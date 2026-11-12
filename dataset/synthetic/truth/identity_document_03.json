@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_03",
+ "category": "identity_document",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "REPUBLIC OF INDIA PASSPORT Type P Country Code IND Passport No. T2497320 Surname Nair Given names Arjun Nationality INDIAN Date of birth 13/10/1980 Place of birth Bengaluru Date of issue 2024-01-16",
+ "fields": {
+  "document_type": "Passport",
+  "name": "Arjun Nair",
+  "id_number": "T2497320",
+  "date_of_birth": "1980-10-13",
+  "father_name": null,
+  "expiry_date": null
+ }
+}

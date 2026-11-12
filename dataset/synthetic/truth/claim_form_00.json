@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_00",
+ "category": "claim_form",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "CLAIM FORM Claim No: CLM-2023-93972 Policy Number: POL-2024-694208 Claimant Name: Divya Das Date of Incident: 27-12-2023 Claim Amount: Rs. 169,150 Description of Incident: Water entered the ground floor during heavy rain damaging furniture I hereby declare that the information given is true.",
+ "fields": {
+  "claim_number": "CLM-2023-93972",
+  "policy_number": "POL-2024-694208",
+  "customer_name": "Divya Das",
+  "incident_date": "2023-12-27",
+  "claim_amount": "169150.00",
+  "claim_description": "Water entered the ground floor during heavy rain damaging furniture"
+ }
+}

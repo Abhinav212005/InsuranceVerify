@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_06",
+ "category": "insurance_policy",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "MOTOR INSURANCE POLICY Insurer: Harbor Shield Insurance Insured: Rohan Khan Vehicle TS47QG8072 Kia Seltos Insured Declared Value Rs 2,350,100 Policy period 23-06-2026 - 04-01-2025 No claim bonus 20% Total premium payable 22,250",
+ "fields": {
+  "customer_name": "Rohan Khan",
+  "policy_number": null,
+  "insurance_company": "Harbor Shield Insurance",
+  "policy_start_date": "2026-06-23",
+  "policy_end_date": "2025-01-04",
+  "premium_amount": "22250.00",
+  "coverage_amount": "2350100.00"
+ }
+}

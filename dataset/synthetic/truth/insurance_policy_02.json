@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_02",
+ "category": "insurance_policy",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "MOTOR INSURANCE POLICY Insurer: Sunrise Mutual Insurance Insured: Divya Iyer Vehicle WB36WY7139 Honda City Insured Declared Value Rs 4974100.00 Policy period 2026-08-19 - 28/01/2026 No claim bonus 50% Total premium payable 45400.00",
+ "fields": {
+  "customer_name": "Divya Iyer",
+  "policy_number": null,
+  "insurance_company": "Sunrise Mutual Insurance",
+  "policy_start_date": "2026-08-19",
+  "policy_end_date": "2026-01-28",
+  "premium_amount": "45400.00",
+  "coverage_amount": "4974100.00"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_02",
+ "category": "identity_document",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "DRIVING LICENCE DL No UP13 99305543052 Name Aarav Kulkarni Date of Birth 27-06-1965 Date of issue 14/10/2023 Valid upto 23/06/2036 Address Indore Signature",
+ "fields": {
+  "document_type": "Driving Licence",
+  "name": "Aarav Kulkarni",
+  "id_number": "UP13 99305543052",
+  "date_of_birth": "1965-06-27",
+  "father_name": null,
+  "expiry_date": "2036-06-23"
+ }
+}

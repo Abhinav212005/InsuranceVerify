@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_01",
+ "category": "repair_invoice",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Shree Ganesh Auto Works - Service Invoice Job card 4378 Customer Divya Gupta Reg no KA46OL6075 Wheel alignment, denting and painting Parts total 11,350 Labor charges 16,950 Grand total 83,550",
+ "fields": {
+  "garage_name": "Shree Ganesh Auto Works",
+  "vehicle_details": "KA46OL6075",
+  "invoice_number": null,
+  "repair_date": null,
+  "total_repair_cost": "83550.00"
+ }
+}

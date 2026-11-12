@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_05",
+ "category": "identity_document",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Government of India Unique Identification Authority of India Rohan Malhotra DOB: 1965-06-21 Female 4339 6108 5894 Aadhaar",
+ "fields": {
+  "document_type": "Aadhaar Card",
+  "name": "Rohan Malhotra",
+  "id_number": "4339 6108 5894",
+  "date_of_birth": "1965-06-21",
+  "father_name": null,
+  "expiry_date": null
+ }
+}

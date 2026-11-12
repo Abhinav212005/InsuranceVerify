@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_05",
+ "category": "repair_invoice",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Ravi Auto Works - Service Invoice Job card 5575 Customer Karan Rao Reg no DL28CG1452 Wheel alignment, denting and painting Parts total 40,400 Labor charges 14200.00 Grand total 103800.00",
+ "fields": {
+  "garage_name": "Ravi Auto Works",
+  "vehicle_details": "DL28CG1452",
+  "invoice_number": null,
+  "repair_date": null,
+  "total_repair_cost": "103800.00"
+ }
+}

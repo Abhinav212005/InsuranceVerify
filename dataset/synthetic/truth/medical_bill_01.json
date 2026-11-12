@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_01",
+ "category": "medical_bill",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Riverside Hospital - In-patient Bill Bill No B-2024-24283 Patient Arjun Singh Treating Doctor Dr. Arjun Das Diagnosis cardiac arrhythmia Bed charges, Nursing charges, Investigation charges, Medicine charges Grand total 461,200",
+ "fields": {
+  "hospital_name": "Riverside Hospital",
+  "patient_name": "Arjun Singh",
+  "invoice_number": "B-2024-24283",
+  "invoice_date": null,
+  "total_amount": "461200.00"
+ }
+}

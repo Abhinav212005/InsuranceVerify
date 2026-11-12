@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_00",
+ "category": "identity_document",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "INCOME TAX DEPARTMENT GOVT. OF INDIA Permanent Account Number XWGFJ8088R Name VIKRAM PILLAI Father's Name RITU PILLAI Date of Birth 24-01-2004 Signature",
+ "fields": {
+  "document_type": "PAN Card",
+  "name": "Vikram Pillai",
+  "id_number": "XWGFJ8088R",
+  "date_of_birth": "2004-01-24",
+  "father_name": "Ritu Pillai",
+  "expiry_date": null
+ }
+}

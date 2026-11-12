@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_04",
+ "category": "medical_bill",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "St. Marks Hospital FINAL BILL Patient Name: Sandeep Bose UHID 546556 Date of Admission 20-11-2024 Date of Discharge 2026-01-17 Room Charges 20,900 Consultation Fee 32000.00 Pharmacy 37750.00 Total Amount Rs. 578,800",
+ "fields": {
+  "hospital_name": "St. Marks Hospital",
+  "patient_name": "Sandeep Bose",
+  "invoice_number": null,
+  "invoice_date": "2026-01-17",
+  "total_amount": "578800.00"
+ }
+}

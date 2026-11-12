@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_03",
+ "category": "insurance_policy",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "Your Health Cover - Renewal Notice Bluepeak Assurance Dear Ananya Malhotra, Your cover under policy POL-2026-570704 expires on 06/03/2024. Annual premium for renewal: Rs 59,100. Sum assured 1407550.00. Nominee: Sandeep Joshi. Please renew to continue your coverage.",
+ "fields": {
+  "customer_name": "Ananya Malhotra",
+  "policy_number": "POL-2026-570704",
+  "insurance_company": "Bluepeak Assurance",
+  "policy_start_date": null,
+  "policy_end_date": "2024-03-06",
+  "premium_amount": "59100.00",
+  "coverage_amount": "1407550.00"
+ }
+}

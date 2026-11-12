@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_07",
+ "category": "insurance_policy",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "Your Health Cover - Renewal Notice Maple Trust Assurance Dear Vikram Verma, Your cover under policy POL-2024-786838 expires on 2025-10-22. Annual premium for renewal: Rs 33,550. Sum assured 4,234,950. Nominee: Karan Verma. Please renew to continue your coverage.",
+ "fields": {
+  "customer_name": "Vikram Verma",
+  "policy_number": "POL-2024-786838",
+  "insurance_company": "Maple Trust Assurance",
+  "policy_start_date": null,
+  "policy_end_date": "2025-10-22",
+  "premium_amount": "33550.00",
+  "coverage_amount": "4234950.00"
+ }
+}

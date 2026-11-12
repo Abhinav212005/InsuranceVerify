@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_00",
+ "category": "medical_bill",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "Sunrise Multispeciality Hospital FINAL BILL Patient Name: Vikram Thakur UHID 752636 Date of Admission 08-07-2026 Date of Discharge 06/06/2026 Room Charges 25150.00 Consultation Fee 6,300 Pharmacy 27,500 Total Amount Rs. 367550.00",
+ "fields": {
+  "hospital_name": "Sunrise Multispeciality Hospital",
+  "patient_name": "Vikram Thakur",
+  "invoice_number": null,
+  "invoice_date": "2026-06-06",
+  "total_amount": "367550.00"
+ }
+}

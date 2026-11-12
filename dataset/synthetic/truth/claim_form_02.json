@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_02",
+ "category": "claim_form",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "Motor Claim Intimation Claimant: Neha Singh Vehicle KA38RY2708 Circumstances of the accident: Theft of laptop and bag from parked car, window glass broken Amount claimed Rs 243,550 Witness: Rahul Verma Declaration by claimant: all details are correct. Signature",
+ "fields": {
+  "claim_number": null,
+  "policy_number": null,
+  "customer_name": "Neha Singh",
+  "incident_date": null,
+  "claim_amount": "243550.00",
+  "claim_description": "Theft of laptop and bag from parked car, window glass broken"
+ }
+}

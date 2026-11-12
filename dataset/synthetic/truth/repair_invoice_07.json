@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_07",
+ "category": "repair_invoice",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "Service Centre Bill Car: Maruti Swift Plate RJ03BU2494 Mechanic notes: oil change, brake pads, engine tune up HSN 8708 parts 19,450 Labour 8,500 Invoice total 106,500 Thank you for visiting Ravi",
+ "fields": {
+  "garage_name": "Ravi",
+  "vehicle_details": "Maruti Swift, RJ03BU2494",
+  "invoice_number": null,
+  "repair_date": null,
+  "total_repair_cost": "106500.00"
+ }
+}

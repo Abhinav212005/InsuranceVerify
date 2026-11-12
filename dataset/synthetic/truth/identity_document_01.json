@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_01",
+ "category": "identity_document",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Government of India Unique Identification Authority of India Meera Nair DOB: 25-02-1998 Female 8047 9999 5099 Aadhaar",
+ "fields": {
+  "document_type": "Aadhaar Card",
+  "name": "Meera Nair",
+  "id_number": "8047 9999 5099",
+  "date_of_birth": "1998-02-25",
+  "father_name": null,
+  "expiry_date": null
+ }
+}

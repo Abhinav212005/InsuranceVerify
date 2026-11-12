@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_02",
+ "category": "repair_invoice",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "Ravi Body Shop Estimate for repair Vehicle: Honda City (MH49GV1568) Chassis No 2VRHLGOZO52Y Work: bumper replacement, painting Labour 19,700 Parts 24,200 Payable 102750.00 This estimate is to be submitted to your insurer.",
+ "fields": {
+  "garage_name": "Ravi Body Shop",
+  "vehicle_details": "Honda City, MH49GV1568",
+  "invoice_number": null,
+  "repair_date": null,
+  "total_repair_cost": "102750.00"
+ }
+}

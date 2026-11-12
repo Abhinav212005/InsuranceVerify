@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_05",
+ "category": "claim_form",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Northstar General Insurance Notice of Loss Claim Reference CLM-2023-15971 Policy No POL-2025-957656 Insured Aarav Sharma Date of loss 2026-04-09 Place of incident Bengaluru Estimated loss 296,450 Police report / FIR number 414/2024",
+ "fields": {
+  "claim_number": "CLM-2023-15971",
+  "policy_number": "POL-2025-957656",
+  "customer_name": "Aarav Sharma",
+  "incident_date": "2026-04-09",
+  "claim_amount": "296450.00",
+  "claim_description": null
+ }
+}

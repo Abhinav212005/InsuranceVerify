@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_02",
+ "category": "medical_bill",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "MedLife Diagnostics Diagnostic and Pathology Laboratory Invoice LAB-2025-21859 Patient name Ananya Pillai Tests: CBC, LFT, X-ray (radiology) Consultation charges 1,250 Total 405,050 Referred by Dr. Kavya Malhotra",
+ "fields": {
+  "hospital_name": "MedLife Diagnostics Diagnostic and Pathology Laboratory",
+  "patient_name": "Ananya Pillai",
+  "invoice_number": "LAB-2025-21859",
+  "invoice_date": null,
+  "total_amount": "405050.00"
+ }
+}

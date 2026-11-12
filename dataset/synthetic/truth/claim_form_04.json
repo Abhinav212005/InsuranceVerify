@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_04",
+ "category": "claim_form",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "CLAIM FORM Claim No: CLM-2023-72321 Policy Number: POL-2023-033962 Claimant Name: Rohan Bose Date of Incident: 2025-07-14 Claim Amount: Rs. 212550.00 Description of Incident: Fire in the kitchen caused by a short circuit, appliances destroyed I hereby declare that the information given is true.",
+ "fields": {
+  "claim_number": "CLM-2023-72321",
+  "policy_number": "POL-2023-033962",
+  "customer_name": "Rohan Bose",
+  "incident_date": "2025-07-14",
+  "claim_amount": "212550.00",
+  "claim_description": "Fire in the kitchen caused by a short circuit, appliances destroyed"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_06",
+ "category": "claim_form",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "Motor Claim Intimation Claimant: Arjun Gupta Vehicle TN15AZ4993 Circumstances of the accident: Theft of laptop and bag from parked car, window glass broken Amount claimed Rs 505850.00 Witness: Nikhil Gupta Declaration by claimant: all details are correct. Signature",
+ "fields": {
+  "claim_number": null,
+  "policy_number": null,
+  "customer_name": "Arjun Gupta",
+  "incident_date": null,
+  "claim_amount": "505850.00",
+  "claim_description": "Theft of laptop and bag from parked car, window glass broken"
+ }
+}

@@ -1,0 +1,721 @@
+id,category,template,condition,doc_index,seed,meta,width,height
+insurance_policy_00,insurance_policy,A,clean,0,1,{},1654,2339
+insurance_policy_00,insurance_policy,A,noise_low,0,1,"{""sigma"": 10}",1654,2339
+insurance_policy_00,insurance_policy,A,noise_high,0,1,"{""sigma"": 25}",1654,2339
+insurance_policy_00,insurance_policy,A,salt_pepper,0,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_00,insurance_policy,A,blur_low,0,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_00,insurance_policy,A,blur_high,0,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_00,insurance_policy,A,rot_3,0,1,"{""angle"": 3.0}",1654,2339
+insurance_policy_00,insurance_policy,A,rot_8,0,1,"{""angle"": 8.0}",1654,2339
+insurance_policy_00,insurance_policy,A,rot_15,0,1,"{""angle"": 15.0}",1654,2339
+insurance_policy_00,insurance_policy,A,lowres_150,0,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_00,insurance_policy,A,lowres_100,0,1,"{""factor"": 0.5}",827,1169
+insurance_policy_00,insurance_policy,A,shadow,0,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_00,insurance_policy,A,faded,0,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_00,insurance_policy,A,jpeg_low,0,1,"{""quality"": 20}",1654,2339
+insurance_policy_00,insurance_policy,A,photo,0,1,"{""corners"": [[204.0, 268.0], [1893.0, 272.0], [1831.0, 2563.0], [185.0, 2525.0]]}",2067,2806
+insurance_policy_01,insurance_policy,B,clean,1,1,{},1654,2339
+insurance_policy_01,insurance_policy,B,noise_low,1,1,"{""sigma"": 10}",1654,2339
+insurance_policy_01,insurance_policy,B,noise_high,1,1,"{""sigma"": 25}",1654,2339
+insurance_policy_01,insurance_policy,B,salt_pepper,1,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_01,insurance_policy,B,blur_low,1,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_01,insurance_policy,B,blur_high,1,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_01,insurance_policy,B,rot_3,1,1,"{""angle"": -3.0}",1654,2339
+insurance_policy_01,insurance_policy,B,rot_8,1,1,"{""angle"": -8.0}",1654,2339
+insurance_policy_01,insurance_policy,B,rot_15,1,1,"{""angle"": -15.0}",1654,2339
+insurance_policy_01,insurance_policy,B,lowres_150,1,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_01,insurance_policy,B,lowres_100,1,1,"{""factor"": 0.5}",827,1169
+insurance_policy_01,insurance_policy,B,shadow,1,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_01,insurance_policy,B,faded,1,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_01,insurance_policy,B,jpeg_low,1,1,"{""quality"": 20}",1654,2339
+insurance_policy_01,insurance_policy,B,photo,1,1,"{""corners"": [[199.0, 248.0], [1884.0, 274.0], [1834.0, 2569.0], [166.0, 2511.0]]}",2067,2806
+insurance_policy_02,insurance_policy,C,clean,2,1,{},1654,2339
+insurance_policy_02,insurance_policy,C,noise_low,2,1,"{""sigma"": 10}",1654,2339
+insurance_policy_02,insurance_policy,C,noise_high,2,1,"{""sigma"": 25}",1654,2339
+insurance_policy_02,insurance_policy,C,salt_pepper,2,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_02,insurance_policy,C,blur_low,2,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_02,insurance_policy,C,blur_high,2,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_02,insurance_policy,C,rot_3,2,1,"{""angle"": 3.0}",1654,2339
+insurance_policy_02,insurance_policy,C,rot_8,2,1,"{""angle"": 8.0}",1654,2339
+insurance_policy_02,insurance_policy,C,rot_15,2,1,"{""angle"": 15.0}",1654,2339
+insurance_policy_02,insurance_policy,C,lowres_150,2,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_02,insurance_policy,C,lowres_100,2,1,"{""factor"": 0.5}",827,1169
+insurance_policy_02,insurance_policy,C,shadow,2,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_02,insurance_policy,C,faded,2,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_02,insurance_policy,C,jpeg_low,2,1,"{""quality"": 20}",1654,2339
+insurance_policy_02,insurance_policy,C,photo,2,1,"{""corners"": [[229.0, 247.0], [1884.0, 267.0], [1861.0, 2530.0], [171.0, 2539.0]]}",2067,2806
+insurance_policy_03,insurance_policy,D,clean,3,1,{},1654,2339
+insurance_policy_03,insurance_policy,D,noise_low,3,1,"{""sigma"": 10}",1654,2339
+insurance_policy_03,insurance_policy,D,noise_high,3,1,"{""sigma"": 25}",1654,2339
+insurance_policy_03,insurance_policy,D,salt_pepper,3,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_03,insurance_policy,D,blur_low,3,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_03,insurance_policy,D,blur_high,3,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_03,insurance_policy,D,rot_3,3,1,"{""angle"": -3.0}",1654,2339
+insurance_policy_03,insurance_policy,D,rot_8,3,1,"{""angle"": -8.0}",1654,2339
+insurance_policy_03,insurance_policy,D,rot_15,3,1,"{""angle"": -15.0}",1654,2339
+insurance_policy_03,insurance_policy,D,lowres_150,3,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_03,insurance_policy,D,lowres_100,3,1,"{""factor"": 0.5}",827,1169
+insurance_policy_03,insurance_policy,D,shadow,3,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_03,insurance_policy,D,faded,3,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_03,insurance_policy,D,jpeg_low,3,1,"{""quality"": 20}",1654,2339
+insurance_policy_03,insurance_policy,D,photo,3,1,"{""corners"": [[204.0, 269.0], [1896.0, 267.0], [1842.0, 2577.0], [165.0, 2513.0]]}",2067,2806
+insurance_policy_04,insurance_policy,A,clean,4,1,{},1654,2339
+insurance_policy_04,insurance_policy,A,noise_low,4,1,"{""sigma"": 10}",1654,2339
+insurance_policy_04,insurance_policy,A,noise_high,4,1,"{""sigma"": 25}",1654,2339
+insurance_policy_04,insurance_policy,A,salt_pepper,4,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_04,insurance_policy,A,blur_low,4,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_04,insurance_policy,A,blur_high,4,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_04,insurance_policy,A,rot_3,4,1,"{""angle"": 3.0}",1654,2339
+insurance_policy_04,insurance_policy,A,rot_8,4,1,"{""angle"": 8.0}",1654,2339
+insurance_policy_04,insurance_policy,A,rot_15,4,1,"{""angle"": 15.0}",1654,2339
+insurance_policy_04,insurance_policy,A,lowres_150,4,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_04,insurance_policy,A,lowres_100,4,1,"{""factor"": 0.5}",827,1169
+insurance_policy_04,insurance_policy,A,shadow,4,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_04,insurance_policy,A,faded,4,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_04,insurance_policy,A,jpeg_low,4,1,"{""quality"": 20}",1654,2339
+insurance_policy_04,insurance_policy,A,photo,4,1,"{""corners"": [[233.0, 271.0], [1867.0, 316.0], [1839.0, 2571.0], [179.0, 2539.0]]}",2067,2806
+insurance_policy_05,insurance_policy,B,clean,5,1,{},1654,2339
+insurance_policy_05,insurance_policy,B,noise_low,5,1,"{""sigma"": 10}",1654,2339
+insurance_policy_05,insurance_policy,B,noise_high,5,1,"{""sigma"": 25}",1654,2339
+insurance_policy_05,insurance_policy,B,salt_pepper,5,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_05,insurance_policy,B,blur_low,5,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_05,insurance_policy,B,blur_high,5,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_05,insurance_policy,B,rot_3,5,1,"{""angle"": -3.0}",1654,2339
+insurance_policy_05,insurance_policy,B,rot_8,5,1,"{""angle"": -8.0}",1654,2339
+insurance_policy_05,insurance_policy,B,rot_15,5,1,"{""angle"": -15.0}",1654,2339
+insurance_policy_05,insurance_policy,B,lowres_150,5,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_05,insurance_policy,B,lowres_100,5,1,"{""factor"": 0.5}",827,1169
+insurance_policy_05,insurance_policy,B,shadow,5,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_05,insurance_policy,B,faded,5,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_05,insurance_policy,B,jpeg_low,5,1,"{""quality"": 20}",1654,2339
+insurance_policy_05,insurance_policy,B,photo,5,1,"{""corners"": [[239.0, 248.0], [1887.0, 285.0], [1845.0, 2546.0], [170.0, 2539.0]]}",2067,2806
+insurance_policy_06,insurance_policy,C,clean,6,1,{},1654,2339
+insurance_policy_06,insurance_policy,C,noise_low,6,1,"{""sigma"": 10}",1654,2339
+insurance_policy_06,insurance_policy,C,noise_high,6,1,"{""sigma"": 25}",1654,2339
+insurance_policy_06,insurance_policy,C,salt_pepper,6,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_06,insurance_policy,C,blur_low,6,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_06,insurance_policy,C,blur_high,6,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_06,insurance_policy,C,rot_3,6,1,"{""angle"": 3.0}",1654,2339
+insurance_policy_06,insurance_policy,C,rot_8,6,1,"{""angle"": 8.0}",1654,2339
+insurance_policy_06,insurance_policy,C,rot_15,6,1,"{""angle"": 15.0}",1654,2339
+insurance_policy_06,insurance_policy,C,lowres_150,6,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_06,insurance_policy,C,lowres_100,6,1,"{""factor"": 0.5}",827,1169
+insurance_policy_06,insurance_policy,C,shadow,6,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_06,insurance_policy,C,faded,6,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_06,insurance_policy,C,jpeg_low,6,1,"{""quality"": 20}",1654,2339
+insurance_policy_06,insurance_policy,C,photo,6,1,"{""corners"": [[212.0, 235.0], [1896.0, 313.0], [1829.0, 2535.0], [166.0, 2500.0]]}",2067,2806
+insurance_policy_07,insurance_policy,D,clean,7,1,{},1654,2339
+insurance_policy_07,insurance_policy,D,noise_low,7,1,"{""sigma"": 10}",1654,2339
+insurance_policy_07,insurance_policy,D,noise_high,7,1,"{""sigma"": 25}",1654,2339
+insurance_policy_07,insurance_policy,D,salt_pepper,7,1,"{""amount"": 0.03}",1654,2339
+insurance_policy_07,insurance_policy,D,blur_low,7,1,"{""sigma"": 1.5}",1654,2339
+insurance_policy_07,insurance_policy,D,blur_high,7,1,"{""sigma"": 3.0}",1654,2339
+insurance_policy_07,insurance_policy,D,rot_3,7,1,"{""angle"": -3.0}",1654,2339
+insurance_policy_07,insurance_policy,D,rot_8,7,1,"{""angle"": -8.0}",1654,2339
+insurance_policy_07,insurance_policy,D,rot_15,7,1,"{""angle"": -15.0}",1654,2339
+insurance_policy_07,insurance_policy,D,lowres_150,7,1,"{""factor"": 0.75}",1240,1754
+insurance_policy_07,insurance_policy,D,lowres_100,7,1,"{""factor"": 0.5}",827,1169
+insurance_policy_07,insurance_policy,D,shadow,7,1,"{""strength"": 0.6}",1654,2339
+insurance_policy_07,insurance_policy,D,faded,7,1,"{""contrast"": 0.35}",1654,2339
+insurance_policy_07,insurance_policy,D,jpeg_low,7,1,"{""quality"": 20}",1654,2339
+insurance_policy_07,insurance_policy,D,photo,7,1,"{""corners"": [[227.0, 254.0], [1904.0, 279.0], [1835.0, 2554.0], [200.0, 2536.0]]}",2067,2806
+claim_form_00,claim_form,A,clean,8,1,{},1654,2339
+claim_form_00,claim_form,A,noise_low,8,1,"{""sigma"": 10}",1654,2339
+claim_form_00,claim_form,A,noise_high,8,1,"{""sigma"": 25}",1654,2339
+claim_form_00,claim_form,A,salt_pepper,8,1,"{""amount"": 0.03}",1654,2339
+claim_form_00,claim_form,A,blur_low,8,1,"{""sigma"": 1.5}",1654,2339
+claim_form_00,claim_form,A,blur_high,8,1,"{""sigma"": 3.0}",1654,2339
+claim_form_00,claim_form,A,rot_3,8,1,"{""angle"": 3.0}",1654,2339
+claim_form_00,claim_form,A,rot_8,8,1,"{""angle"": 8.0}",1654,2339
+claim_form_00,claim_form,A,rot_15,8,1,"{""angle"": 15.0}",1654,2339
+claim_form_00,claim_form,A,lowres_150,8,1,"{""factor"": 0.75}",1240,1754
+claim_form_00,claim_form,A,lowres_100,8,1,"{""factor"": 0.5}",827,1169
+claim_form_00,claim_form,A,shadow,8,1,"{""strength"": 0.6}",1654,2339
+claim_form_00,claim_form,A,faded,8,1,"{""contrast"": 0.35}",1654,2339
+claim_form_00,claim_form,A,jpeg_low,8,1,"{""quality"": 20}",1654,2339
+claim_form_00,claim_form,A,photo,8,1,"{""corners"": [[215.0, 237.0], [1878.0, 267.0], [1858.0, 2543.0], [165.0, 2549.0]]}",2067,2806
+claim_form_01,claim_form,B,clean,9,1,{},1654,2339
+claim_form_01,claim_form,B,noise_low,9,1,"{""sigma"": 10}",1654,2339
+claim_form_01,claim_form,B,noise_high,9,1,"{""sigma"": 25}",1654,2339
+claim_form_01,claim_form,B,salt_pepper,9,1,"{""amount"": 0.03}",1654,2339
+claim_form_01,claim_form,B,blur_low,9,1,"{""sigma"": 1.5}",1654,2339
+claim_form_01,claim_form,B,blur_high,9,1,"{""sigma"": 3.0}",1654,2339
+claim_form_01,claim_form,B,rot_3,9,1,"{""angle"": -3.0}",1654,2339
+claim_form_01,claim_form,B,rot_8,9,1,"{""angle"": -8.0}",1654,2339
+claim_form_01,claim_form,B,rot_15,9,1,"{""angle"": -15.0}",1654,2339
+claim_form_01,claim_form,B,lowres_150,9,1,"{""factor"": 0.75}",1240,1754
+claim_form_01,claim_form,B,lowres_100,9,1,"{""factor"": 0.5}",827,1169
+claim_form_01,claim_form,B,shadow,9,1,"{""strength"": 0.6}",1654,2339
+claim_form_01,claim_form,B,faded,9,1,"{""contrast"": 0.35}",1654,2339
+claim_form_01,claim_form,B,jpeg_low,9,1,"{""quality"": 20}",1654,2339
+claim_form_01,claim_form,B,photo,9,1,"{""corners"": [[219.0, 250.0], [1894.0, 285.0], [1843.0, 2544.0], [186.0, 2501.0]]}",2067,2806
+claim_form_02,claim_form,C,clean,10,1,{},1654,2339
+claim_form_02,claim_form,C,noise_low,10,1,"{""sigma"": 10}",1654,2339
+claim_form_02,claim_form,C,noise_high,10,1,"{""sigma"": 25}",1654,2339
+claim_form_02,claim_form,C,salt_pepper,10,1,"{""amount"": 0.03}",1654,2339
+claim_form_02,claim_form,C,blur_low,10,1,"{""sigma"": 1.5}",1654,2339
+claim_form_02,claim_form,C,blur_high,10,1,"{""sigma"": 3.0}",1654,2339
+claim_form_02,claim_form,C,rot_3,10,1,"{""angle"": 3.0}",1654,2339
+claim_form_02,claim_form,C,rot_8,10,1,"{""angle"": 8.0}",1654,2339
+claim_form_02,claim_form,C,rot_15,10,1,"{""angle"": 15.0}",1654,2339
+claim_form_02,claim_form,C,lowres_150,10,1,"{""factor"": 0.75}",1240,1754
+claim_form_02,claim_form,C,lowres_100,10,1,"{""factor"": 0.5}",827,1169
+claim_form_02,claim_form,C,shadow,10,1,"{""strength"": 0.6}",1654,2339
+claim_form_02,claim_form,C,faded,10,1,"{""contrast"": 0.35}",1654,2339
+claim_form_02,claim_form,C,jpeg_low,10,1,"{""quality"": 20}",1654,2339
+claim_form_02,claim_form,C,photo,10,1,"{""corners"": [[240.0, 263.0], [1896.0, 274.0], [1818.0, 2538.0], [180.0, 2522.0]]}",2067,2806
+claim_form_03,claim_form,D,clean,11,1,{},1654,2339
+claim_form_03,claim_form,D,noise_low,11,1,"{""sigma"": 10}",1654,2339
+claim_form_03,claim_form,D,noise_high,11,1,"{""sigma"": 25}",1654,2339
+claim_form_03,claim_form,D,salt_pepper,11,1,"{""amount"": 0.03}",1654,2339
+claim_form_03,claim_form,D,blur_low,11,1,"{""sigma"": 1.5}",1654,2339
+claim_form_03,claim_form,D,blur_high,11,1,"{""sigma"": 3.0}",1654,2339
+claim_form_03,claim_form,D,rot_3,11,1,"{""angle"": -3.0}",1654,2339
+claim_form_03,claim_form,D,rot_8,11,1,"{""angle"": -8.0}",1654,2339
+claim_form_03,claim_form,D,rot_15,11,1,"{""angle"": -15.0}",1654,2339
+claim_form_03,claim_form,D,lowres_150,11,1,"{""factor"": 0.75}",1240,1754
+claim_form_03,claim_form,D,lowres_100,11,1,"{""factor"": 0.5}",827,1169
+claim_form_03,claim_form,D,shadow,11,1,"{""strength"": 0.6}",1654,2339
+claim_form_03,claim_form,D,faded,11,1,"{""contrast"": 0.35}",1654,2339
+claim_form_03,claim_form,D,jpeg_low,11,1,"{""quality"": 20}",1654,2339
+claim_form_03,claim_form,D,photo,11,1,"{""corners"": [[221.0, 267.0], [1903.0, 315.0], [1843.0, 2533.0], [165.0, 2500.0]]}",2067,2806
+claim_form_04,claim_form,A,clean,12,1,{},1654,2339
+claim_form_04,claim_form,A,noise_low,12,1,"{""sigma"": 10}",1654,2339
+claim_form_04,claim_form,A,noise_high,12,1,"{""sigma"": 25}",1654,2339
+claim_form_04,claim_form,A,salt_pepper,12,1,"{""amount"": 0.03}",1654,2339
+claim_form_04,claim_form,A,blur_low,12,1,"{""sigma"": 1.5}",1654,2339
+claim_form_04,claim_form,A,blur_high,12,1,"{""sigma"": 3.0}",1654,2339
+claim_form_04,claim_form,A,rot_3,12,1,"{""angle"": 3.0}",1654,2339
+claim_form_04,claim_form,A,rot_8,12,1,"{""angle"": 8.0}",1654,2339
+claim_form_04,claim_form,A,rot_15,12,1,"{""angle"": 15.0}",1654,2339
+claim_form_04,claim_form,A,lowres_150,12,1,"{""factor"": 0.75}",1240,1754
+claim_form_04,claim_form,A,lowres_100,12,1,"{""factor"": 0.5}",827,1169
+claim_form_04,claim_form,A,shadow,12,1,"{""strength"": 0.6}",1654,2339
+claim_form_04,claim_form,A,faded,12,1,"{""contrast"": 0.35}",1654,2339
+claim_form_04,claim_form,A,jpeg_low,12,1,"{""quality"": 20}",1654,2339
+claim_form_04,claim_form,A,photo,12,1,"{""corners"": [[200.0, 252.0], [1870.0, 274.0], [1819.0, 2557.0], [189.0, 2516.0]]}",2067,2806
+claim_form_05,claim_form,B,clean,13,1,{},1654,2339
+claim_form_05,claim_form,B,noise_low,13,1,"{""sigma"": 10}",1654,2339
+claim_form_05,claim_form,B,noise_high,13,1,"{""sigma"": 25}",1654,2339
+claim_form_05,claim_form,B,salt_pepper,13,1,"{""amount"": 0.03}",1654,2339
+claim_form_05,claim_form,B,blur_low,13,1,"{""sigma"": 1.5}",1654,2339
+claim_form_05,claim_form,B,blur_high,13,1,"{""sigma"": 3.0}",1654,2339
+claim_form_05,claim_form,B,rot_3,13,1,"{""angle"": -3.0}",1654,2339
+claim_form_05,claim_form,B,rot_8,13,1,"{""angle"": -8.0}",1654,2339
+claim_form_05,claim_form,B,rot_15,13,1,"{""angle"": -15.0}",1654,2339
+claim_form_05,claim_form,B,lowres_150,13,1,"{""factor"": 0.75}",1240,1754
+claim_form_05,claim_form,B,lowres_100,13,1,"{""factor"": 0.5}",827,1169
+claim_form_05,claim_form,B,shadow,13,1,"{""strength"": 0.6}",1654,2339
+claim_form_05,claim_form,B,faded,13,1,"{""contrast"": 0.35}",1654,2339
+claim_form_05,claim_form,B,jpeg_low,13,1,"{""quality"": 20}",1654,2339
+claim_form_05,claim_form,B,photo,13,1,"{""corners"": [[234.0, 248.0], [1906.0, 274.0], [1828.0, 2577.0], [164.0, 2524.0]]}",2067,2806
+claim_form_06,claim_form,C,clean,14,1,{},1654,2339
+claim_form_06,claim_form,C,noise_low,14,1,"{""sigma"": 10}",1654,2339
+claim_form_06,claim_form,C,noise_high,14,1,"{""sigma"": 25}",1654,2339
+claim_form_06,claim_form,C,salt_pepper,14,1,"{""amount"": 0.03}",1654,2339
+claim_form_06,claim_form,C,blur_low,14,1,"{""sigma"": 1.5}",1654,2339
+claim_form_06,claim_form,C,blur_high,14,1,"{""sigma"": 3.0}",1654,2339
+claim_form_06,claim_form,C,rot_3,14,1,"{""angle"": 3.0}",1654,2339
+claim_form_06,claim_form,C,rot_8,14,1,"{""angle"": 8.0}",1654,2339
+claim_form_06,claim_form,C,rot_15,14,1,"{""angle"": 15.0}",1654,2339
+claim_form_06,claim_form,C,lowres_150,14,1,"{""factor"": 0.75}",1240,1754
+claim_form_06,claim_form,C,lowres_100,14,1,"{""factor"": 0.5}",827,1169
+claim_form_06,claim_form,C,shadow,14,1,"{""strength"": 0.6}",1654,2339
+claim_form_06,claim_form,C,faded,14,1,"{""contrast"": 0.35}",1654,2339
+claim_form_06,claim_form,C,jpeg_low,14,1,"{""quality"": 20}",1654,2339
+claim_form_06,claim_form,C,photo,14,1,"{""corners"": [[197.0, 264.0], [1873.0, 317.0], [1841.0, 2550.0], [171.0, 2543.0]]}",2067,2806
+claim_form_07,claim_form,D,clean,15,1,{},1654,2339
+claim_form_07,claim_form,D,noise_low,15,1,"{""sigma"": 10}",1654,2339
+claim_form_07,claim_form,D,noise_high,15,1,"{""sigma"": 25}",1654,2339
+claim_form_07,claim_form,D,salt_pepper,15,1,"{""amount"": 0.03}",1654,2339
+claim_form_07,claim_form,D,blur_low,15,1,"{""sigma"": 1.5}",1654,2339
+claim_form_07,claim_form,D,blur_high,15,1,"{""sigma"": 3.0}",1654,2339
+claim_form_07,claim_form,D,rot_3,15,1,"{""angle"": -3.0}",1654,2339
+claim_form_07,claim_form,D,rot_8,15,1,"{""angle"": -8.0}",1654,2339
+claim_form_07,claim_form,D,rot_15,15,1,"{""angle"": -15.0}",1654,2339
+claim_form_07,claim_form,D,lowres_150,15,1,"{""factor"": 0.75}",1240,1754
+claim_form_07,claim_form,D,lowres_100,15,1,"{""factor"": 0.5}",827,1169
+claim_form_07,claim_form,D,shadow,15,1,"{""strength"": 0.6}",1654,2339
+claim_form_07,claim_form,D,faded,15,1,"{""contrast"": 0.35}",1654,2339
+claim_form_07,claim_form,D,jpeg_low,15,1,"{""quality"": 20}",1654,2339
+claim_form_07,claim_form,D,photo,15,1,"{""corners"": [[208.0, 238.0], [1898.0, 289.0], [1820.0, 2532.0], [183.0, 2534.0]]}",2067,2806
+identity_document_00,identity_document,A,clean,16,1,{},1654,2339
+identity_document_00,identity_document,A,noise_low,16,1,"{""sigma"": 10}",1654,2339
+identity_document_00,identity_document,A,noise_high,16,1,"{""sigma"": 25}",1654,2339
+identity_document_00,identity_document,A,salt_pepper,16,1,"{""amount"": 0.03}",1654,2339
+identity_document_00,identity_document,A,blur_low,16,1,"{""sigma"": 1.5}",1654,2339
+identity_document_00,identity_document,A,blur_high,16,1,"{""sigma"": 3.0}",1654,2339
+identity_document_00,identity_document,A,rot_3,16,1,"{""angle"": 3.0}",1654,2339
+identity_document_00,identity_document,A,rot_8,16,1,"{""angle"": 8.0}",1654,2339
+identity_document_00,identity_document,A,rot_15,16,1,"{""angle"": 15.0}",1654,2339
+identity_document_00,identity_document,A,lowres_150,16,1,"{""factor"": 0.75}",1240,1754
+identity_document_00,identity_document,A,lowres_100,16,1,"{""factor"": 0.5}",827,1169
+identity_document_00,identity_document,A,shadow,16,1,"{""strength"": 0.6}",1654,2339
+identity_document_00,identity_document,A,faded,16,1,"{""contrast"": 0.35}",1654,2339
+identity_document_00,identity_document,A,jpeg_low,16,1,"{""quality"": 20}",1654,2339
+identity_document_00,identity_document,A,photo,16,1,"{""corners"": [[222.0, 240.0], [1897.0, 304.0], [1837.0, 2531.0], [165.0, 2542.0]]}",2067,2806
+identity_document_01,identity_document,B,clean,17,1,{},1654,2339
+identity_document_01,identity_document,B,noise_low,17,1,"{""sigma"": 10}",1654,2339
+identity_document_01,identity_document,B,noise_high,17,1,"{""sigma"": 25}",1654,2339
+identity_document_01,identity_document,B,salt_pepper,17,1,"{""amount"": 0.03}",1654,2339
+identity_document_01,identity_document,B,blur_low,17,1,"{""sigma"": 1.5}",1654,2339
+identity_document_01,identity_document,B,blur_high,17,1,"{""sigma"": 3.0}",1654,2339
+identity_document_01,identity_document,B,rot_3,17,1,"{""angle"": -3.0}",1654,2339
+identity_document_01,identity_document,B,rot_8,17,1,"{""angle"": -8.0}",1654,2339
+identity_document_01,identity_document,B,rot_15,17,1,"{""angle"": -15.0}",1654,2339
+identity_document_01,identity_document,B,lowres_150,17,1,"{""factor"": 0.75}",1240,1754
+identity_document_01,identity_document,B,lowres_100,17,1,"{""factor"": 0.5}",827,1169
+identity_document_01,identity_document,B,shadow,17,1,"{""strength"": 0.6}",1654,2339
+identity_document_01,identity_document,B,faded,17,1,"{""contrast"": 0.35}",1654,2339
+identity_document_01,identity_document,B,jpeg_low,17,1,"{""quality"": 20}",1654,2339
+identity_document_01,identity_document,B,photo,17,1,"{""corners"": [[212.0, 260.0], [1862.0, 271.0], [1854.0, 2579.0], [193.0, 2527.0]]}",2067,2806
+identity_document_02,identity_document,C,clean,18,1,{},1654,2339
+identity_document_02,identity_document,C,noise_low,18,1,"{""sigma"": 10}",1654,2339
+identity_document_02,identity_document,C,noise_high,18,1,"{""sigma"": 25}",1654,2339
+identity_document_02,identity_document,C,salt_pepper,18,1,"{""amount"": 0.03}",1654,2339
+identity_document_02,identity_document,C,blur_low,18,1,"{""sigma"": 1.5}",1654,2339
+identity_document_02,identity_document,C,blur_high,18,1,"{""sigma"": 3.0}",1654,2339
+identity_document_02,identity_document,C,rot_3,18,1,"{""angle"": 3.0}",1654,2339
+identity_document_02,identity_document,C,rot_8,18,1,"{""angle"": 8.0}",1654,2339
+identity_document_02,identity_document,C,rot_15,18,1,"{""angle"": 15.0}",1654,2339
+identity_document_02,identity_document,C,lowres_150,18,1,"{""factor"": 0.75}",1240,1754
+identity_document_02,identity_document,C,lowres_100,18,1,"{""factor"": 0.5}",827,1169
+identity_document_02,identity_document,C,shadow,18,1,"{""strength"": 0.6}",1654,2339
+identity_document_02,identity_document,C,faded,18,1,"{""contrast"": 0.35}",1654,2339
+identity_document_02,identity_document,C,jpeg_low,18,1,"{""quality"": 20}",1654,2339
+identity_document_02,identity_document,C,photo,18,1,"{""corners"": [[232.0, 273.0], [1906.0, 285.0], [1830.0, 2558.0], [195.0, 2509.0]]}",2067,2806
+identity_document_03,identity_document,D,clean,19,1,{},1654,2339
+identity_document_03,identity_document,D,noise_low,19,1,"{""sigma"": 10}",1654,2339
+identity_document_03,identity_document,D,noise_high,19,1,"{""sigma"": 25}",1654,2339
+identity_document_03,identity_document,D,salt_pepper,19,1,"{""amount"": 0.03}",1654,2339
+identity_document_03,identity_document,D,blur_low,19,1,"{""sigma"": 1.5}",1654,2339
+identity_document_03,identity_document,D,blur_high,19,1,"{""sigma"": 3.0}",1654,2339
+identity_document_03,identity_document,D,rot_3,19,1,"{""angle"": -3.0}",1654,2339
+identity_document_03,identity_document,D,rot_8,19,1,"{""angle"": -8.0}",1654,2339
+identity_document_03,identity_document,D,rot_15,19,1,"{""angle"": -15.0}",1654,2339
+identity_document_03,identity_document,D,lowres_150,19,1,"{""factor"": 0.75}",1240,1754
+identity_document_03,identity_document,D,lowres_100,19,1,"{""factor"": 0.5}",827,1169
+identity_document_03,identity_document,D,shadow,19,1,"{""strength"": 0.6}",1654,2339
+identity_document_03,identity_document,D,faded,19,1,"{""contrast"": 0.35}",1654,2339
+identity_document_03,identity_document,D,jpeg_low,19,1,"{""quality"": 20}",1654,2339
+identity_document_03,identity_document,D,photo,19,1,"{""corners"": [[226.0, 253.0], [1859.0, 314.0], [1821.0, 2529.0], [206.0, 2504.0]]}",2067,2806
+identity_document_04,identity_document,A,clean,20,1,{},1654,2339
+identity_document_04,identity_document,A,noise_low,20,1,"{""sigma"": 10}",1654,2339
+identity_document_04,identity_document,A,noise_high,20,1,"{""sigma"": 25}",1654,2339
+identity_document_04,identity_document,A,salt_pepper,20,1,"{""amount"": 0.03}",1654,2339
+identity_document_04,identity_document,A,blur_low,20,1,"{""sigma"": 1.5}",1654,2339
+identity_document_04,identity_document,A,blur_high,20,1,"{""sigma"": 3.0}",1654,2339
+identity_document_04,identity_document,A,rot_3,20,1,"{""angle"": 3.0}",1654,2339
+identity_document_04,identity_document,A,rot_8,20,1,"{""angle"": 8.0}",1654,2339
+identity_document_04,identity_document,A,rot_15,20,1,"{""angle"": 15.0}",1654,2339
+identity_document_04,identity_document,A,lowres_150,20,1,"{""factor"": 0.75}",1240,1754
+identity_document_04,identity_document,A,lowres_100,20,1,"{""factor"": 0.5}",827,1169
+identity_document_04,identity_document,A,shadow,20,1,"{""strength"": 0.6}",1654,2339
+identity_document_04,identity_document,A,faded,20,1,"{""contrast"": 0.35}",1654,2339
+identity_document_04,identity_document,A,jpeg_low,20,1,"{""quality"": 20}",1654,2339
+identity_document_04,identity_document,A,photo,20,1,"{""corners"": [[216.0, 257.0], [1857.0, 279.0], [1827.0, 2573.0], [208.0, 2504.0]]}",2067,2806
+identity_document_05,identity_document,B,clean,21,1,{},1654,2339
+identity_document_05,identity_document,B,noise_low,21,1,"{""sigma"": 10}",1654,2339
+identity_document_05,identity_document,B,noise_high,21,1,"{""sigma"": 25}",1654,2339
+identity_document_05,identity_document,B,salt_pepper,21,1,"{""amount"": 0.03}",1654,2339
+identity_document_05,identity_document,B,blur_low,21,1,"{""sigma"": 1.5}",1654,2339
+identity_document_05,identity_document,B,blur_high,21,1,"{""sigma"": 3.0}",1654,2339
+identity_document_05,identity_document,B,rot_3,21,1,"{""angle"": -3.0}",1654,2339
+identity_document_05,identity_document,B,rot_8,21,1,"{""angle"": -8.0}",1654,2339
+identity_document_05,identity_document,B,rot_15,21,1,"{""angle"": -15.0}",1654,2339
+identity_document_05,identity_document,B,lowres_150,21,1,"{""factor"": 0.75}",1240,1754
+identity_document_05,identity_document,B,lowres_100,21,1,"{""factor"": 0.5}",827,1169
+identity_document_05,identity_document,B,shadow,21,1,"{""strength"": 0.6}",1654,2339
+identity_document_05,identity_document,B,faded,21,1,"{""contrast"": 0.35}",1654,2339
+identity_document_05,identity_document,B,jpeg_low,21,1,"{""quality"": 20}",1654,2339
+identity_document_05,identity_document,B,photo,21,1,"{""corners"": [[209.0, 242.0], [1861.0, 304.0], [1840.0, 2561.0], [176.0, 2534.0]]}",2067,2806
+identity_document_06,identity_document,C,clean,22,1,{},1654,2339
+identity_document_06,identity_document,C,noise_low,22,1,"{""sigma"": 10}",1654,2339
+identity_document_06,identity_document,C,noise_high,22,1,"{""sigma"": 25}",1654,2339
+identity_document_06,identity_document,C,salt_pepper,22,1,"{""amount"": 0.03}",1654,2339
+identity_document_06,identity_document,C,blur_low,22,1,"{""sigma"": 1.5}",1654,2339
+identity_document_06,identity_document,C,blur_high,22,1,"{""sigma"": 3.0}",1654,2339
+identity_document_06,identity_document,C,rot_3,22,1,"{""angle"": 3.0}",1654,2339
+identity_document_06,identity_document,C,rot_8,22,1,"{""angle"": 8.0}",1654,2339
+identity_document_06,identity_document,C,rot_15,22,1,"{""angle"": 15.0}",1654,2339
+identity_document_06,identity_document,C,lowres_150,22,1,"{""factor"": 0.75}",1240,1754
+identity_document_06,identity_document,C,lowres_100,22,1,"{""factor"": 0.5}",827,1169
+identity_document_06,identity_document,C,shadow,22,1,"{""strength"": 0.6}",1654,2339
+identity_document_06,identity_document,C,faded,22,1,"{""contrast"": 0.35}",1654,2339
+identity_document_06,identity_document,C,jpeg_low,22,1,"{""quality"": 20}",1654,2339
+identity_document_06,identity_document,C,photo,22,1,"{""corners"": [[240.0, 247.0], [1871.0, 313.0], [1821.0, 2559.0], [162.0, 2513.0]]}",2067,2806
+identity_document_07,identity_document,D,clean,23,1,{},1654,2339
+identity_document_07,identity_document,D,noise_low,23,1,"{""sigma"": 10}",1654,2339
+identity_document_07,identity_document,D,noise_high,23,1,"{""sigma"": 25}",1654,2339
+identity_document_07,identity_document,D,salt_pepper,23,1,"{""amount"": 0.03}",1654,2339
+identity_document_07,identity_document,D,blur_low,23,1,"{""sigma"": 1.5}",1654,2339
+identity_document_07,identity_document,D,blur_high,23,1,"{""sigma"": 3.0}",1654,2339
+identity_document_07,identity_document,D,rot_3,23,1,"{""angle"": -3.0}",1654,2339
+identity_document_07,identity_document,D,rot_8,23,1,"{""angle"": -8.0}",1654,2339
+identity_document_07,identity_document,D,rot_15,23,1,"{""angle"": -15.0}",1654,2339
+identity_document_07,identity_document,D,lowres_150,23,1,"{""factor"": 0.75}",1240,1754
+identity_document_07,identity_document,D,lowres_100,23,1,"{""factor"": 0.5}",827,1169
+identity_document_07,identity_document,D,shadow,23,1,"{""strength"": 0.6}",1654,2339
+identity_document_07,identity_document,D,faded,23,1,"{""contrast"": 0.35}",1654,2339
+identity_document_07,identity_document,D,jpeg_low,23,1,"{""quality"": 20}",1654,2339
+identity_document_07,identity_document,D,photo,23,1,"{""corners"": [[234.0, 245.0], [1893.0, 312.0], [1828.0, 2556.0], [186.0, 2534.0]]}",2067,2806
+medical_bill_00,medical_bill,A,clean,24,1,{},1654,2339
+medical_bill_00,medical_bill,A,noise_low,24,1,"{""sigma"": 10}",1654,2339
+medical_bill_00,medical_bill,A,noise_high,24,1,"{""sigma"": 25}",1654,2339
+medical_bill_00,medical_bill,A,salt_pepper,24,1,"{""amount"": 0.03}",1654,2339
+medical_bill_00,medical_bill,A,blur_low,24,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_00,medical_bill,A,blur_high,24,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_00,medical_bill,A,rot_3,24,1,"{""angle"": 3.0}",1654,2339
+medical_bill_00,medical_bill,A,rot_8,24,1,"{""angle"": 8.0}",1654,2339
+medical_bill_00,medical_bill,A,rot_15,24,1,"{""angle"": 15.0}",1654,2339
+medical_bill_00,medical_bill,A,lowres_150,24,1,"{""factor"": 0.75}",1240,1754
+medical_bill_00,medical_bill,A,lowres_100,24,1,"{""factor"": 0.5}",827,1169
+medical_bill_00,medical_bill,A,shadow,24,1,"{""strength"": 0.6}",1654,2339
+medical_bill_00,medical_bill,A,faded,24,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_00,medical_bill,A,jpeg_low,24,1,"{""quality"": 20}",1654,2339
+medical_bill_00,medical_bill,A,photo,24,1,"{""corners"": [[205.0, 234.0], [1857.0, 275.0], [1857.0, 2569.0], [208.0, 2512.0]]}",2067,2806
+medical_bill_01,medical_bill,B,clean,25,1,{},1654,2339
+medical_bill_01,medical_bill,B,noise_low,25,1,"{""sigma"": 10}",1654,2339
+medical_bill_01,medical_bill,B,noise_high,25,1,"{""sigma"": 25}",1654,2339
+medical_bill_01,medical_bill,B,salt_pepper,25,1,"{""amount"": 0.03}",1654,2339
+medical_bill_01,medical_bill,B,blur_low,25,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_01,medical_bill,B,blur_high,25,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_01,medical_bill,B,rot_3,25,1,"{""angle"": -3.0}",1654,2339
+medical_bill_01,medical_bill,B,rot_8,25,1,"{""angle"": -8.0}",1654,2339
+medical_bill_01,medical_bill,B,rot_15,25,1,"{""angle"": -15.0}",1654,2339
+medical_bill_01,medical_bill,B,lowres_150,25,1,"{""factor"": 0.75}",1240,1754
+medical_bill_01,medical_bill,B,lowres_100,25,1,"{""factor"": 0.5}",827,1169
+medical_bill_01,medical_bill,B,shadow,25,1,"{""strength"": 0.6}",1654,2339
+medical_bill_01,medical_bill,B,faded,25,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_01,medical_bill,B,jpeg_low,25,1,"{""quality"": 20}",1654,2339
+medical_bill_01,medical_bill,B,photo,25,1,"{""corners"": [[192.0, 276.0], [1884.0, 315.0], [1856.0, 2570.0], [211.0, 2547.0]]}",2067,2806
+medical_bill_02,medical_bill,C,clean,26,1,{},1654,2339
+medical_bill_02,medical_bill,C,noise_low,26,1,"{""sigma"": 10}",1654,2339
+medical_bill_02,medical_bill,C,noise_high,26,1,"{""sigma"": 25}",1654,2339
+medical_bill_02,medical_bill,C,salt_pepper,26,1,"{""amount"": 0.03}",1654,2339
+medical_bill_02,medical_bill,C,blur_low,26,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_02,medical_bill,C,blur_high,26,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_02,medical_bill,C,rot_3,26,1,"{""angle"": 3.0}",1654,2339
+medical_bill_02,medical_bill,C,rot_8,26,1,"{""angle"": 8.0}",1654,2339
+medical_bill_02,medical_bill,C,rot_15,26,1,"{""angle"": 15.0}",1654,2339
+medical_bill_02,medical_bill,C,lowres_150,26,1,"{""factor"": 0.75}",1240,1754
+medical_bill_02,medical_bill,C,lowres_100,26,1,"{""factor"": 0.5}",827,1169
+medical_bill_02,medical_bill,C,shadow,26,1,"{""strength"": 0.6}",1654,2339
+medical_bill_02,medical_bill,C,faded,26,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_02,medical_bill,C,jpeg_low,26,1,"{""quality"": 20}",1654,2339
+medical_bill_02,medical_bill,C,photo,26,1,"{""corners"": [[196.0, 251.0], [1906.0, 313.0], [1816.0, 2535.0], [204.0, 2504.0]]}",2067,2806
+medical_bill_03,medical_bill,D,clean,27,1,{},1654,2339
+medical_bill_03,medical_bill,D,noise_low,27,1,"{""sigma"": 10}",1654,2339
+medical_bill_03,medical_bill,D,noise_high,27,1,"{""sigma"": 25}",1654,2339
+medical_bill_03,medical_bill,D,salt_pepper,27,1,"{""amount"": 0.03}",1654,2339
+medical_bill_03,medical_bill,D,blur_low,27,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_03,medical_bill,D,blur_high,27,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_03,medical_bill,D,rot_3,27,1,"{""angle"": -3.0}",1654,2339
+medical_bill_03,medical_bill,D,rot_8,27,1,"{""angle"": -8.0}",1654,2339
+medical_bill_03,medical_bill,D,rot_15,27,1,"{""angle"": -15.0}",1654,2339
+medical_bill_03,medical_bill,D,lowres_150,27,1,"{""factor"": 0.75}",1240,1754
+medical_bill_03,medical_bill,D,lowres_100,27,1,"{""factor"": 0.5}",827,1169
+medical_bill_03,medical_bill,D,shadow,27,1,"{""strength"": 0.6}",1654,2339
+medical_bill_03,medical_bill,D,faded,27,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_03,medical_bill,D,jpeg_low,27,1,"{""quality"": 20}",1654,2339
+medical_bill_03,medical_bill,D,photo,27,1,"{""corners"": [[200.0, 239.0], [1883.0, 312.0], [1831.0, 2536.0], [178.0, 2512.0]]}",2067,2806
+medical_bill_04,medical_bill,A,clean,28,1,{},1654,2339
+medical_bill_04,medical_bill,A,noise_low,28,1,"{""sigma"": 10}",1654,2339
+medical_bill_04,medical_bill,A,noise_high,28,1,"{""sigma"": 25}",1654,2339
+medical_bill_04,medical_bill,A,salt_pepper,28,1,"{""amount"": 0.03}",1654,2339
+medical_bill_04,medical_bill,A,blur_low,28,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_04,medical_bill,A,blur_high,28,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_04,medical_bill,A,rot_3,28,1,"{""angle"": 3.0}",1654,2339
+medical_bill_04,medical_bill,A,rot_8,28,1,"{""angle"": 8.0}",1654,2339
+medical_bill_04,medical_bill,A,rot_15,28,1,"{""angle"": 15.0}",1654,2339
+medical_bill_04,medical_bill,A,lowres_150,28,1,"{""factor"": 0.75}",1240,1754
+medical_bill_04,medical_bill,A,lowres_100,28,1,"{""factor"": 0.5}",827,1169
+medical_bill_04,medical_bill,A,shadow,28,1,"{""strength"": 0.6}",1654,2339
+medical_bill_04,medical_bill,A,faded,28,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_04,medical_bill,A,jpeg_low,28,1,"{""quality"": 20}",1654,2339
+medical_bill_04,medical_bill,A,photo,28,1,"{""corners"": [[196.0, 275.0], [1863.0, 311.0], [1852.0, 2532.0], [207.0, 2543.0]]}",2067,2806
+medical_bill_05,medical_bill,B,clean,29,1,{},1654,2339
+medical_bill_05,medical_bill,B,noise_low,29,1,"{""sigma"": 10}",1654,2339
+medical_bill_05,medical_bill,B,noise_high,29,1,"{""sigma"": 25}",1654,2339
+medical_bill_05,medical_bill,B,salt_pepper,29,1,"{""amount"": 0.03}",1654,2339
+medical_bill_05,medical_bill,B,blur_low,29,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_05,medical_bill,B,blur_high,29,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_05,medical_bill,B,rot_3,29,1,"{""angle"": -3.0}",1654,2339
+medical_bill_05,medical_bill,B,rot_8,29,1,"{""angle"": -8.0}",1654,2339
+medical_bill_05,medical_bill,B,rot_15,29,1,"{""angle"": -15.0}",1654,2339
+medical_bill_05,medical_bill,B,lowres_150,29,1,"{""factor"": 0.75}",1240,1754
+medical_bill_05,medical_bill,B,lowres_100,29,1,"{""factor"": 0.5}",827,1169
+medical_bill_05,medical_bill,B,shadow,29,1,"{""strength"": 0.6}",1654,2339
+medical_bill_05,medical_bill,B,faded,29,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_05,medical_bill,B,jpeg_low,29,1,"{""quality"": 20}",1654,2339
+medical_bill_05,medical_bill,B,photo,29,1,"{""corners"": [[240.0, 240.0], [1890.0, 295.0], [1860.0, 2540.0], [176.0, 2548.0]]}",2067,2806
+medical_bill_06,medical_bill,C,clean,30,1,{},1654,2339
+medical_bill_06,medical_bill,C,noise_low,30,1,"{""sigma"": 10}",1654,2339
+medical_bill_06,medical_bill,C,noise_high,30,1,"{""sigma"": 25}",1654,2339
+medical_bill_06,medical_bill,C,salt_pepper,30,1,"{""amount"": 0.03}",1654,2339
+medical_bill_06,medical_bill,C,blur_low,30,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_06,medical_bill,C,blur_high,30,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_06,medical_bill,C,rot_3,30,1,"{""angle"": 3.0}",1654,2339
+medical_bill_06,medical_bill,C,rot_8,30,1,"{""angle"": 8.0}",1654,2339
+medical_bill_06,medical_bill,C,rot_15,30,1,"{""angle"": 15.0}",1654,2339
+medical_bill_06,medical_bill,C,lowres_150,30,1,"{""factor"": 0.75}",1240,1754
+medical_bill_06,medical_bill,C,lowres_100,30,1,"{""factor"": 0.5}",827,1169
+medical_bill_06,medical_bill,C,shadow,30,1,"{""strength"": 0.6}",1654,2339
+medical_bill_06,medical_bill,C,faded,30,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_06,medical_bill,C,jpeg_low,30,1,"{""quality"": 20}",1654,2339
+medical_bill_06,medical_bill,C,photo,30,1,"{""corners"": [[228.0, 240.0], [1894.0, 292.0], [1865.0, 2554.0], [205.0, 2519.0]]}",2067,2806
+medical_bill_07,medical_bill,D,clean,31,1,{},1654,2339
+medical_bill_07,medical_bill,D,noise_low,31,1,"{""sigma"": 10}",1654,2339
+medical_bill_07,medical_bill,D,noise_high,31,1,"{""sigma"": 25}",1654,2339
+medical_bill_07,medical_bill,D,salt_pepper,31,1,"{""amount"": 0.03}",1654,2339
+medical_bill_07,medical_bill,D,blur_low,31,1,"{""sigma"": 1.5}",1654,2339
+medical_bill_07,medical_bill,D,blur_high,31,1,"{""sigma"": 3.0}",1654,2339
+medical_bill_07,medical_bill,D,rot_3,31,1,"{""angle"": -3.0}",1654,2339
+medical_bill_07,medical_bill,D,rot_8,31,1,"{""angle"": -8.0}",1654,2339
+medical_bill_07,medical_bill,D,rot_15,31,1,"{""angle"": -15.0}",1654,2339
+medical_bill_07,medical_bill,D,lowres_150,31,1,"{""factor"": 0.75}",1240,1754
+medical_bill_07,medical_bill,D,lowres_100,31,1,"{""factor"": 0.5}",827,1169
+medical_bill_07,medical_bill,D,shadow,31,1,"{""strength"": 0.6}",1654,2339
+medical_bill_07,medical_bill,D,faded,31,1,"{""contrast"": 0.35}",1654,2339
+medical_bill_07,medical_bill,D,jpeg_low,31,1,"{""quality"": 20}",1654,2339
+medical_bill_07,medical_bill,D,photo,31,1,"{""corners"": [[215.0, 241.0], [1859.0, 311.0], [1829.0, 2572.0], [197.0, 2509.0]]}",2067,2806
+repair_invoice_00,repair_invoice,A,clean,32,1,{},1654,2339
+repair_invoice_00,repair_invoice,A,noise_low,32,1,"{""sigma"": 10}",1654,2339
+repair_invoice_00,repair_invoice,A,noise_high,32,1,"{""sigma"": 25}",1654,2339
+repair_invoice_00,repair_invoice,A,salt_pepper,32,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_00,repair_invoice,A,blur_low,32,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_00,repair_invoice,A,blur_high,32,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_00,repair_invoice,A,rot_3,32,1,"{""angle"": 3.0}",1654,2339
+repair_invoice_00,repair_invoice,A,rot_8,32,1,"{""angle"": 8.0}",1654,2339
+repair_invoice_00,repair_invoice,A,rot_15,32,1,"{""angle"": 15.0}",1654,2339
+repair_invoice_00,repair_invoice,A,lowres_150,32,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_00,repair_invoice,A,lowres_100,32,1,"{""factor"": 0.5}",827,1169
+repair_invoice_00,repair_invoice,A,shadow,32,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_00,repair_invoice,A,faded,32,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_00,repair_invoice,A,jpeg_low,32,1,"{""quality"": 20}",1654,2339
+repair_invoice_00,repair_invoice,A,photo,32,1,"{""corners"": [[241.0, 275.0], [1885.0, 282.0], [1853.0, 2566.0], [188.0, 2500.0]]}",2067,2806
+repair_invoice_01,repair_invoice,B,clean,33,1,{},1654,2339
+repair_invoice_01,repair_invoice,B,noise_low,33,1,"{""sigma"": 10}",1654,2339
+repair_invoice_01,repair_invoice,B,noise_high,33,1,"{""sigma"": 25}",1654,2339
+repair_invoice_01,repair_invoice,B,salt_pepper,33,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_01,repair_invoice,B,blur_low,33,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_01,repair_invoice,B,blur_high,33,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_01,repair_invoice,B,rot_3,33,1,"{""angle"": -3.0}",1654,2339
+repair_invoice_01,repair_invoice,B,rot_8,33,1,"{""angle"": -8.0}",1654,2339
+repair_invoice_01,repair_invoice,B,rot_15,33,1,"{""angle"": -15.0}",1654,2339
+repair_invoice_01,repair_invoice,B,lowres_150,33,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_01,repair_invoice,B,lowres_100,33,1,"{""factor"": 0.5}",827,1169
+repair_invoice_01,repair_invoice,B,shadow,33,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_01,repair_invoice,B,faded,33,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_01,repair_invoice,B,jpeg_low,33,1,"{""quality"": 20}",1654,2339
+repair_invoice_01,repair_invoice,B,photo,33,1,"{""corners"": [[194.0, 271.0], [1862.0, 305.0], [1861.0, 2564.0], [203.0, 2500.0]]}",2067,2806
+repair_invoice_02,repair_invoice,C,clean,34,1,{},1654,2339
+repair_invoice_02,repair_invoice,C,noise_low,34,1,"{""sigma"": 10}",1654,2339
+repair_invoice_02,repair_invoice,C,noise_high,34,1,"{""sigma"": 25}",1654,2339
+repair_invoice_02,repair_invoice,C,salt_pepper,34,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_02,repair_invoice,C,blur_low,34,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_02,repair_invoice,C,blur_high,34,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_02,repair_invoice,C,rot_3,34,1,"{""angle"": 3.0}",1654,2339
+repair_invoice_02,repair_invoice,C,rot_8,34,1,"{""angle"": 8.0}",1654,2339
+repair_invoice_02,repair_invoice,C,rot_15,34,1,"{""angle"": 15.0}",1654,2339
+repair_invoice_02,repair_invoice,C,lowres_150,34,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_02,repair_invoice,C,lowres_100,34,1,"{""factor"": 0.5}",827,1169
+repair_invoice_02,repair_invoice,C,shadow,34,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_02,repair_invoice,C,faded,34,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_02,repair_invoice,C,jpeg_low,34,1,"{""quality"": 20}",1654,2339
+repair_invoice_02,repair_invoice,C,photo,34,1,"{""corners"": [[206.0, 249.0], [1880.0, 279.0], [1836.0, 2577.0], [169.0, 2499.0]]}",2067,2806
+repair_invoice_03,repair_invoice,D,clean,35,1,{},1654,2339
+repair_invoice_03,repair_invoice,D,noise_low,35,1,"{""sigma"": 10}",1654,2339
+repair_invoice_03,repair_invoice,D,noise_high,35,1,"{""sigma"": 25}",1654,2339
+repair_invoice_03,repair_invoice,D,salt_pepper,35,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_03,repair_invoice,D,blur_low,35,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_03,repair_invoice,D,blur_high,35,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_03,repair_invoice,D,rot_3,35,1,"{""angle"": -3.0}",1654,2339
+repair_invoice_03,repair_invoice,D,rot_8,35,1,"{""angle"": -8.0}",1654,2339
+repair_invoice_03,repair_invoice,D,rot_15,35,1,"{""angle"": -15.0}",1654,2339
+repair_invoice_03,repair_invoice,D,lowres_150,35,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_03,repair_invoice,D,lowres_100,35,1,"{""factor"": 0.5}",827,1169
+repair_invoice_03,repair_invoice,D,shadow,35,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_03,repair_invoice,D,faded,35,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_03,repair_invoice,D,jpeg_low,35,1,"{""quality"": 20}",1654,2339
+repair_invoice_03,repair_invoice,D,photo,35,1,"{""corners"": [[215.0, 265.0], [1861.0, 277.0], [1825.0, 2555.0], [196.0, 2531.0]]}",2067,2806
+repair_invoice_04,repair_invoice,A,clean,36,1,{},1654,2339
+repair_invoice_04,repair_invoice,A,noise_low,36,1,"{""sigma"": 10}",1654,2339
+repair_invoice_04,repair_invoice,A,noise_high,36,1,"{""sigma"": 25}",1654,2339
+repair_invoice_04,repair_invoice,A,salt_pepper,36,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_04,repair_invoice,A,blur_low,36,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_04,repair_invoice,A,blur_high,36,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_04,repair_invoice,A,rot_3,36,1,"{""angle"": 3.0}",1654,2339
+repair_invoice_04,repair_invoice,A,rot_8,36,1,"{""angle"": 8.0}",1654,2339
+repair_invoice_04,repair_invoice,A,rot_15,36,1,"{""angle"": 15.0}",1654,2339
+repair_invoice_04,repair_invoice,A,lowres_150,36,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_04,repair_invoice,A,lowres_100,36,1,"{""factor"": 0.5}",827,1169
+repair_invoice_04,repair_invoice,A,shadow,36,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_04,repair_invoice,A,faded,36,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_04,repair_invoice,A,jpeg_low,36,1,"{""quality"": 20}",1654,2339
+repair_invoice_04,repair_invoice,A,photo,36,1,"{""corners"": [[203.0, 259.0], [1897.0, 286.0], [1832.0, 2536.0], [176.0, 2518.0]]}",2067,2806
+repair_invoice_05,repair_invoice,B,clean,37,1,{},1654,2339
+repair_invoice_05,repair_invoice,B,noise_low,37,1,"{""sigma"": 10}",1654,2339
+repair_invoice_05,repair_invoice,B,noise_high,37,1,"{""sigma"": 25}",1654,2339
+repair_invoice_05,repair_invoice,B,salt_pepper,37,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_05,repair_invoice,B,blur_low,37,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_05,repair_invoice,B,blur_high,37,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_05,repair_invoice,B,rot_3,37,1,"{""angle"": -3.0}",1654,2339
+repair_invoice_05,repair_invoice,B,rot_8,37,1,"{""angle"": -8.0}",1654,2339
+repair_invoice_05,repair_invoice,B,rot_15,37,1,"{""angle"": -15.0}",1654,2339
+repair_invoice_05,repair_invoice,B,lowres_150,37,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_05,repair_invoice,B,lowres_100,37,1,"{""factor"": 0.5}",827,1169
+repair_invoice_05,repair_invoice,B,shadow,37,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_05,repair_invoice,B,faded,37,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_05,repair_invoice,B,jpeg_low,37,1,"{""quality"": 20}",1654,2339
+repair_invoice_05,repair_invoice,B,photo,37,1,"{""corners"": [[231.0, 229.0], [1876.0, 303.0], [1856.0, 2531.0], [170.0, 2515.0]]}",2067,2806
+repair_invoice_06,repair_invoice,C,clean,38,1,{},1654,2339
+repair_invoice_06,repair_invoice,C,noise_low,38,1,"{""sigma"": 10}",1654,2339
+repair_invoice_06,repair_invoice,C,noise_high,38,1,"{""sigma"": 25}",1654,2339
+repair_invoice_06,repair_invoice,C,salt_pepper,38,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_06,repair_invoice,C,blur_low,38,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_06,repair_invoice,C,blur_high,38,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_06,repair_invoice,C,rot_3,38,1,"{""angle"": 3.0}",1654,2339
+repair_invoice_06,repair_invoice,C,rot_8,38,1,"{""angle"": 8.0}",1654,2339
+repair_invoice_06,repair_invoice,C,rot_15,38,1,"{""angle"": 15.0}",1654,2339
+repair_invoice_06,repair_invoice,C,lowres_150,38,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_06,repair_invoice,C,lowres_100,38,1,"{""factor"": 0.5}",827,1169
+repair_invoice_06,repair_invoice,C,shadow,38,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_06,repair_invoice,C,faded,38,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_06,repair_invoice,C,jpeg_low,38,1,"{""quality"": 20}",1654,2339
+repair_invoice_06,repair_invoice,C,photo,38,1,"{""corners"": [[211.0, 230.0], [1864.0, 295.0], [1863.0, 2539.0], [168.0, 2509.0]]}",2067,2806
+repair_invoice_07,repair_invoice,D,clean,39,1,{},1654,2339
+repair_invoice_07,repair_invoice,D,noise_low,39,1,"{""sigma"": 10}",1654,2339
+repair_invoice_07,repair_invoice,D,noise_high,39,1,"{""sigma"": 25}",1654,2339
+repair_invoice_07,repair_invoice,D,salt_pepper,39,1,"{""amount"": 0.03}",1654,2339
+repair_invoice_07,repair_invoice,D,blur_low,39,1,"{""sigma"": 1.5}",1654,2339
+repair_invoice_07,repair_invoice,D,blur_high,39,1,"{""sigma"": 3.0}",1654,2339
+repair_invoice_07,repair_invoice,D,rot_3,39,1,"{""angle"": -3.0}",1654,2339
+repair_invoice_07,repair_invoice,D,rot_8,39,1,"{""angle"": -8.0}",1654,2339
+repair_invoice_07,repair_invoice,D,rot_15,39,1,"{""angle"": -15.0}",1654,2339
+repair_invoice_07,repair_invoice,D,lowres_150,39,1,"{""factor"": 0.75}",1240,1754
+repair_invoice_07,repair_invoice,D,lowres_100,39,1,"{""factor"": 0.5}",827,1169
+repair_invoice_07,repair_invoice,D,shadow,39,1,"{""strength"": 0.6}",1654,2339
+repair_invoice_07,repair_invoice,D,faded,39,1,"{""contrast"": 0.35}",1654,2339
+repair_invoice_07,repair_invoice,D,jpeg_low,39,1,"{""quality"": 20}",1654,2339
+repair_invoice_07,repair_invoice,D,photo,39,1,"{""corners"": [[227.0, 257.0], [1875.0, 275.0], [1831.0, 2577.0], [166.0, 2529.0]]}",2067,2806
+other_00,other,A,clean,40,1,{},1654,2339
+other_00,other,A,noise_low,40,1,"{""sigma"": 10}",1654,2339
+other_00,other,A,noise_high,40,1,"{""sigma"": 25}",1654,2339
+other_00,other,A,salt_pepper,40,1,"{""amount"": 0.03}",1654,2339
+other_00,other,A,blur_low,40,1,"{""sigma"": 1.5}",1654,2339
+other_00,other,A,blur_high,40,1,"{""sigma"": 3.0}",1654,2339
+other_00,other,A,rot_3,40,1,"{""angle"": 3.0}",1654,2339
+other_00,other,A,rot_8,40,1,"{""angle"": 8.0}",1654,2339
+other_00,other,A,rot_15,40,1,"{""angle"": 15.0}",1654,2339
+other_00,other,A,lowres_150,40,1,"{""factor"": 0.75}",1240,1754
+other_00,other,A,lowres_100,40,1,"{""factor"": 0.5}",827,1169
+other_00,other,A,shadow,40,1,"{""strength"": 0.6}",1654,2339
+other_00,other,A,faded,40,1,"{""contrast"": 0.35}",1654,2339
+other_00,other,A,jpeg_low,40,1,"{""quality"": 20}",1654,2339
+other_00,other,A,photo,40,1,"{""corners"": [[233.0, 252.0], [1894.0, 283.0], [1860.0, 2531.0], [168.0, 2500.0]]}",2067,2806
+other_01,other,B,clean,41,1,{},1654,2339
+other_01,other,B,noise_low,41,1,"{""sigma"": 10}",1654,2339
+other_01,other,B,noise_high,41,1,"{""sigma"": 25}",1654,2339
+other_01,other,B,salt_pepper,41,1,"{""amount"": 0.03}",1654,2339
+other_01,other,B,blur_low,41,1,"{""sigma"": 1.5}",1654,2339
+other_01,other,B,blur_high,41,1,"{""sigma"": 3.0}",1654,2339
+other_01,other,B,rot_3,41,1,"{""angle"": -3.0}",1654,2339
+other_01,other,B,rot_8,41,1,"{""angle"": -8.0}",1654,2339
+other_01,other,B,rot_15,41,1,"{""angle"": -15.0}",1654,2339
+other_01,other,B,lowres_150,41,1,"{""factor"": 0.75}",1240,1754
+other_01,other,B,lowres_100,41,1,"{""factor"": 0.5}",827,1169
+other_01,other,B,shadow,41,1,"{""strength"": 0.6}",1654,2339
+other_01,other,B,faded,41,1,"{""contrast"": 0.35}",1654,2339
+other_01,other,B,jpeg_low,41,1,"{""quality"": 20}",1654,2339
+other_01,other,B,photo,41,1,"{""corners"": [[223.0, 253.0], [1898.0, 310.0], [1843.0, 2569.0], [177.0, 2516.0]]}",2067,2806
+other_02,other,C,clean,42,1,{},1654,2339
+other_02,other,C,noise_low,42,1,"{""sigma"": 10}",1654,2339
+other_02,other,C,noise_high,42,1,"{""sigma"": 25}",1654,2339
+other_02,other,C,salt_pepper,42,1,"{""amount"": 0.03}",1654,2339
+other_02,other,C,blur_low,42,1,"{""sigma"": 1.5}",1654,2339
+other_02,other,C,blur_high,42,1,"{""sigma"": 3.0}",1654,2339
+other_02,other,C,rot_3,42,1,"{""angle"": 3.0}",1654,2339
+other_02,other,C,rot_8,42,1,"{""angle"": 8.0}",1654,2339
+other_02,other,C,rot_15,42,1,"{""angle"": 15.0}",1654,2339
+other_02,other,C,lowres_150,42,1,"{""factor"": 0.75}",1240,1754
+other_02,other,C,lowres_100,42,1,"{""factor"": 0.5}",827,1169
+other_02,other,C,shadow,42,1,"{""strength"": 0.6}",1654,2339
+other_02,other,C,faded,42,1,"{""contrast"": 0.35}",1654,2339
+other_02,other,C,jpeg_low,42,1,"{""quality"": 20}",1654,2339
+other_02,other,C,photo,42,1,"{""corners"": [[215.0, 258.0], [1858.0, 289.0], [1846.0, 2576.0], [174.0, 2548.0]]}",2067,2806
+other_03,other,D,clean,43,1,{},1654,2339
+other_03,other,D,noise_low,43,1,"{""sigma"": 10}",1654,2339
+other_03,other,D,noise_high,43,1,"{""sigma"": 25}",1654,2339
+other_03,other,D,salt_pepper,43,1,"{""amount"": 0.03}",1654,2339
+other_03,other,D,blur_low,43,1,"{""sigma"": 1.5}",1654,2339
+other_03,other,D,blur_high,43,1,"{""sigma"": 3.0}",1654,2339
+other_03,other,D,rot_3,43,1,"{""angle"": -3.0}",1654,2339
+other_03,other,D,rot_8,43,1,"{""angle"": -8.0}",1654,2339
+other_03,other,D,rot_15,43,1,"{""angle"": -15.0}",1654,2339
+other_03,other,D,lowres_150,43,1,"{""factor"": 0.75}",1240,1754
+other_03,other,D,lowres_100,43,1,"{""factor"": 0.5}",827,1169
+other_03,other,D,shadow,43,1,"{""strength"": 0.6}",1654,2339
+other_03,other,D,faded,43,1,"{""contrast"": 0.35}",1654,2339
+other_03,other,D,jpeg_low,43,1,"{""quality"": 20}",1654,2339
+other_03,other,D,photo,43,1,"{""corners"": [[191.0, 276.0], [1887.0, 313.0], [1819.0, 2540.0], [175.0, 2507.0]]}",2067,2806
+other_04,other,A,clean,44,1,{},1654,2339
+other_04,other,A,noise_low,44,1,"{""sigma"": 10}",1654,2339
+other_04,other,A,noise_high,44,1,"{""sigma"": 25}",1654,2339
+other_04,other,A,salt_pepper,44,1,"{""amount"": 0.03}",1654,2339
+other_04,other,A,blur_low,44,1,"{""sigma"": 1.5}",1654,2339
+other_04,other,A,blur_high,44,1,"{""sigma"": 3.0}",1654,2339
+other_04,other,A,rot_3,44,1,"{""angle"": 3.0}",1654,2339
+other_04,other,A,rot_8,44,1,"{""angle"": 8.0}",1654,2339
+other_04,other,A,rot_15,44,1,"{""angle"": 15.0}",1654,2339
+other_04,other,A,lowres_150,44,1,"{""factor"": 0.75}",1240,1754
+other_04,other,A,lowres_100,44,1,"{""factor"": 0.5}",827,1169
+other_04,other,A,shadow,44,1,"{""strength"": 0.6}",1654,2339
+other_04,other,A,faded,44,1,"{""contrast"": 0.35}",1654,2339
+other_04,other,A,jpeg_low,44,1,"{""quality"": 20}",1654,2339
+other_04,other,A,photo,44,1,"{""corners"": [[200.0, 249.0], [1897.0, 285.0], [1842.0, 2536.0], [179.0, 2517.0]]}",2067,2806
+other_05,other,B,clean,45,1,{},1654,2339
+other_05,other,B,noise_low,45,1,"{""sigma"": 10}",1654,2339
+other_05,other,B,noise_high,45,1,"{""sigma"": 25}",1654,2339
+other_05,other,B,salt_pepper,45,1,"{""amount"": 0.03}",1654,2339
+other_05,other,B,blur_low,45,1,"{""sigma"": 1.5}",1654,2339
+other_05,other,B,blur_high,45,1,"{""sigma"": 3.0}",1654,2339
+other_05,other,B,rot_3,45,1,"{""angle"": -3.0}",1654,2339
+other_05,other,B,rot_8,45,1,"{""angle"": -8.0}",1654,2339
+other_05,other,B,rot_15,45,1,"{""angle"": -15.0}",1654,2339
+other_05,other,B,lowres_150,45,1,"{""factor"": 0.75}",1240,1754
+other_05,other,B,lowres_100,45,1,"{""factor"": 0.5}",827,1169
+other_05,other,B,shadow,45,1,"{""strength"": 0.6}",1654,2339
+other_05,other,B,faded,45,1,"{""contrast"": 0.35}",1654,2339
+other_05,other,B,jpeg_low,45,1,"{""quality"": 20}",1654,2339
+other_05,other,B,photo,45,1,"{""corners"": [[206.0, 247.0], [1899.0, 279.0], [1830.0, 2571.0], [185.0, 2512.0]]}",2067,2806
+other_06,other,C,clean,46,1,{},1654,2339
+other_06,other,C,noise_low,46,1,"{""sigma"": 10}",1654,2339
+other_06,other,C,noise_high,46,1,"{""sigma"": 25}",1654,2339
+other_06,other,C,salt_pepper,46,1,"{""amount"": 0.03}",1654,2339
+other_06,other,C,blur_low,46,1,"{""sigma"": 1.5}",1654,2339
+other_06,other,C,blur_high,46,1,"{""sigma"": 3.0}",1654,2339
+other_06,other,C,rot_3,46,1,"{""angle"": 3.0}",1654,2339
+other_06,other,C,rot_8,46,1,"{""angle"": 8.0}",1654,2339
+other_06,other,C,rot_15,46,1,"{""angle"": 15.0}",1654,2339
+other_06,other,C,lowres_150,46,1,"{""factor"": 0.75}",1240,1754
+other_06,other,C,lowres_100,46,1,"{""factor"": 0.5}",827,1169
+other_06,other,C,shadow,46,1,"{""strength"": 0.6}",1654,2339
+other_06,other,C,faded,46,1,"{""contrast"": 0.35}",1654,2339
+other_06,other,C,jpeg_low,46,1,"{""quality"": 20}",1654,2339
+other_06,other,C,photo,46,1,"{""corners"": [[227.0, 274.0], [1859.0, 305.0], [1842.0, 2531.0], [162.0, 2500.0]]}",2067,2806
+other_07,other,D,clean,47,1,{},1654,2339
+other_07,other,D,noise_low,47,1,"{""sigma"": 10}",1654,2339
+other_07,other,D,noise_high,47,1,"{""sigma"": 25}",1654,2339
+other_07,other,D,salt_pepper,47,1,"{""amount"": 0.03}",1654,2339
+other_07,other,D,blur_low,47,1,"{""sigma"": 1.5}",1654,2339
+other_07,other,D,blur_high,47,1,"{""sigma"": 3.0}",1654,2339
+other_07,other,D,rot_3,47,1,"{""angle"": -3.0}",1654,2339
+other_07,other,D,rot_8,47,1,"{""angle"": -8.0}",1654,2339
+other_07,other,D,rot_15,47,1,"{""angle"": -15.0}",1654,2339
+other_07,other,D,lowres_150,47,1,"{""factor"": 0.75}",1240,1754
+other_07,other,D,lowres_100,47,1,"{""factor"": 0.5}",827,1169
+other_07,other,D,shadow,47,1,"{""strength"": 0.6}",1654,2339
+other_07,other,D,faded,47,1,"{""contrast"": 0.35}",1654,2339
+other_07,other,D,jpeg_low,47,1,"{""quality"": 20}",1654,2339
+other_07,other,D,photo,47,1,"{""corners"": [[193.0, 247.0], [1902.0, 300.0], [1852.0, 2548.0], [168.0, 2525.0]]}",2067,2806

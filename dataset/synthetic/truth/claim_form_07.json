@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_07",
+ "category": "claim_form",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "First Notice of Loss - Reporting Party: Rohan Sharma Reference: CLM-2025-18222 What happened: Theft of laptop and bag from parked car, window glass broken When: 05/06/2025 Where: Chennai Loss report estimate 586050.00 Contact the claims desk for updates.",
+ "fields": {
+  "claim_number": "CLM-2025-18222",
+  "policy_number": null,
+  "customer_name": "Rohan Sharma",
+  "incident_date": "2025-06-05",
+  "claim_amount": "586050.00",
+  "claim_description": "Theft of laptop and bag from parked car, window glass broken"
+ }
+}

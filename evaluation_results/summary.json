@@ -1,0 +1,717 @@
+{
+  "ablation": {
+    "n_images": 270,
+    "mean_cer": {
+      "A0 raw image": 0.15700165538666433,
+      "A1 + grayscale": 0.12000154285412497,
+      "A2 + median denoise": 0.11625551873563819,
+      "A3 + CLAHE": 0.12251721548943717,
+      "A4 + adaptive threshold": 0.162468195919547,
+      "A5 + deskew": 0.0650636968980166,
+      "A6 + morphology": 0.039014387081910705,
+      "A7 + resize (R4 standard+CLAHE)": 0.040144577928297856,
+      "R3 default (no CLAHE)": 0.03170579383632539,
+      "R5 full (+ page boundary)": 0.031659684130369986
+    },
+    "mean_wer": {
+      "A0 raw image": 0.20925642030313302,
+      "A1 + grayscale": 0.17254607978832628,
+      "A2 + median denoise": 0.16034114701661276,
+      "A3 + CLAHE": 0.16566628356658303,
+      "A4 + adaptive threshold": 0.30489304675112827,
+      "A5 + deskew": 0.2071013814687409,
+      "A6 + morphology": 0.1509666571681542,
+      "A7 + resize (R4 standard+CLAHE)": 0.15049289280073636,
+      "R3 default (no CLAHE)": 0.1181556552628709,
+      "R5 full (+ page boundary)": 0.11773945256780109
+    },
+    "cer_by_condition": {
+      "A0 raw image": {
+        "clean": 0.0017770571607763303,
+        "noise_low": 0.0017770571607763303,
+        "noise_high": 0.5559916353497394,
+        "salt_pepper": 0.08373513376683869,
+        "blur_low": 0.0017438847138107798,
+        "blur_high": 0.10277388677727711,
+        "rot_3": 0.002548924424790191,
+        "rot_8": 0.5861334612171976,
+        "rot_15": 0.9989053092501368,
+        "lowres_150": 0.0017770571607763303,
+        "lowres_100": 0.00179823276252777,
+        "shadow": 0.010732230033798232,
+        "faded": 0.0017661747969527897,
+        "jpeg_low": 0.0017770571607763303,
+        "photo": 0.0017877290637900753
+      },
+      "A1 + grayscale": {
+        "clean": 0.0017770571607763303,
+        "noise_low": 0.0017770571607763303,
+        "noise_high": 0.0015256745564525493,
+        "salt_pepper": 0.08373513376683869,
+        "blur_low": 0.0017438847138107798,
+        "blur_high": 0.10277388677727711,
+        "rot_3": 0.002548924424790191,
+        "rot_8": 0.5861334612171976,
+        "rot_15": 0.9989053092501368,
+        "lowres_150": 0.0017770571607763303,
+        "lowres_100": 0.00179823276252777,
+        "shadow": 0.010732230033798232,
+        "faded": 0.0017661747969527897,
+        "jpeg_low": 0.0017770571607763303,
+        "photo": 0.0012520018689867584
+      },
+      "A2 + median denoise": {
+        "clean": 0.0017770571607763303,
+        "noise_low": 0.0017770571607763303,
+        "noise_high": 0.0017770571607763303,
+        "salt_pepper": 0.0020175574012765707,
+        "blur_low": 0.0021093817898341716,
+        "blur_high": 0.11647138317006966,
+        "rot_3": 0.003744778109190169,
+        "rot_8": 0.560592664779642,
+        "rot_15": 0.9990487062404871,
+        "lowres_150": 0.0024354159859926857,
+        "lowres_100": 0.035008360669393494,
+        "shadow": 0.011657439672427017,
+        "faded": 0.0017770571607763303,
+        "jpeg_low": 0.0017770571607763303,
+        "photo": 0.0018618074123786393
+      },
+      "A3 + CLAHE": {
+        "clean": 0.0017770571607763303,
+        "noise_low": 0.0017770571607763303,
+        "noise_high": 0.05733261271633188,
+        "salt_pepper": 0.0020175574012765707,
+        "blur_low": 0.009800642770568836,
+        "blur_high": 0.13996737840280732,
+        "rot_3": 0.004371078968831546,
+        "rot_8": 0.5723275761000063,
+        "rot_15": 0.9990487062404871,
+        "lowres_150": 0.0022225594512970707,
+        "lowres_100": 0.029654585252521928,
+        "shadow": 0.012130249233547365,
+        "faded": 0.0017770571607763303,
+        "jpeg_low": 0.0017770571607763303,
+        "photo": 0.0017770571607763303
+      },
+      "A4 + adaptive threshold": {
+        "clean": 0.002649310472054032,
+        "noise_low": 0.2108358685337883,
+        "noise_high": 0.36810657865432705,
+        "salt_pepper": 0.0028898107125542726,
+        "blur_low": 0.0038792325064785967,
+        "blur_high": 0.048650031050611074,
+        "rot_3": 0.005873316909128997,
+        "rot_8": 0.5971188290114156,
+        "rot_15": 1.0,
+        "lowres_150": 0.0015033844733105392,
+        "lowres_100": 0.04907136973298447,
+        "shadow": 0.0023783077620269317,
+        "faded": 0.04243623823234498,
+        "jpeg_low": 0.005783133655707971,
+        "photo": 0.09584752708647241
+      },
+      "A5 + deskew": {
+        "clean": 0.002649310472054032,
+        "noise_low": 0.2108358685337883,
+        "noise_high": 0.36810657865432705,
+        "salt_pepper": 0.0028898107125542726,
+        "blur_low": 0.0038792325064785967,
+        "blur_high": 0.048650031050611074,
+        "rot_3": 0.004141449486074096,
+        "rot_8": 0.01281842677542646,
+        "rot_15": 0.1333284478025953,
+        "lowres_150": 0.0015033844733105392,
+        "lowres_100": 0.04907136973298447,
+        "shadow": 0.0023783077620269317,
+        "faded": 0.04243623823234498,
+        "jpeg_low": 0.005783133655707971,
+        "photo": 0.08748386361996492
+      },
+      "A6 + morphology": {
+        "clean": 0.003532063050665788,
+        "noise_low": 0.08198674427361421,
+        "noise_high": 0.12162156432935249,
+        "salt_pepper": 0.0037725632911660293,
+        "blur_low": 0.0030753072768897566,
+        "blur_high": 0.0515472875118196,
+        "rot_3": 0.003919331767930235,
+        "rot_8": 0.015413975481435131,
+        "rot_15": 0.13405907305025933,
+        "lowres_150": 0.007485666413394185,
+        "lowres_100": 0.10340129580390447,
+        "shadow": 0.002481796540295967,
+        "faded": 0.01585522722024902,
+        "jpeg_low": 0.0030169669395393086,
+        "photo": 0.03404694327814488
+      },
+      "A7 + resize (R4 standard+CLAHE)": {
+        "clean": 0.0034658932752329977,
+        "noise_low": 0.07566522727799536,
+        "noise_high": 0.12151017981004743,
+        "salt_pepper": 0.004507365670081062,
+        "blur_low": 0.002457853510034636,
+        "blur_high": 0.05038170587706384,
+        "rot_3": 0.004516284376371155,
+        "rot_8": 0.015413975481435131,
+        "rot_15": 0.13405907305025933,
+        "lowres_150": 0.007649027643638801,
+        "lowres_100": 0.12754935003314538,
+        "shadow": 0.0024156267648631755,
+        "faded": 0.014356340460599911,
+        "jpeg_low": 0.004173822415554634,
+        "photo": 0.03404694327814488
+      },
+      "R3 default (no CLAHE)": {
+        "clean": 0.003670895325253498,
+        "noise_low": 0.002847520524815348,
+        "noise_high": 0.0802594184489778,
+        "salt_pepper": 0.00454684984877066,
+        "blur_low": 0.002679846448054057,
+        "blur_high": 0.061506175036357566,
+        "rot_3": 0.005623293566368036,
+        "rot_8": 0.01585760370622159,
+        "rot_15": 0.13404202440853386,
+        "lowres_150": 0.008546695752499717,
+        "lowres_100": 0.13623492499845677,
+        "shadow": 0.005551844460148915,
+        "faded": 0.008040462332439267,
+        "jpeg_low": 0.003699978034862576,
+        "photo": 0.002479374653121092
+      },
+      "R5 full (+ page boundary)": {
+        "clean": 0.003670895325253498,
+        "noise_low": 0.002847520524815348,
+        "noise_high": 0.0802594184489778,
+        "salt_pepper": 0.00454684984877066,
+        "blur_low": 0.002679846448054057,
+        "blur_high": 0.061506175036357566,
+        "rot_3": 0.005623293566368036,
+        "rot_8": 0.01585760370622159,
+        "rot_15": 0.13404202440853386,
+        "lowres_150": 0.008546695752499717,
+        "lowres_100": 0.13623492499845677,
+        "shadow": 0.005551844460148915,
+        "faded": 0.008040462332439267,
+        "jpeg_low": 0.003699978034862576,
+        "photo": 0.0017877290637900753
+      }
+    }
+  },
+  "threshold": {
+    "raw grayscale (no threshold)": {
+      "clean": 0.0017770571607763303,
+      "noise_high": 0.0015256745564525493,
+      "shadow": 0.010732230033798232,
+      "faded": 0.0017661747969527897,
+      "jpeg_low": 0.0017770571607763303
+    },
+    "global (T=127)": {
+      "clean": 0.007183933891650581,
+      "noise_high": 0.008077137748407478,
+      "shadow": 0.0033356538806633726,
+      "faded": 1.0,
+      "jpeg_low": 0.00685917171803633
+    },
+    "Otsu": {
+      "clean": 0.005506521647116237,
+      "noise_high": 0.006137670996535608,
+      "shadow": 0.012016089594395716,
+      "faded": 0.005577363333914651,
+      "jpeg_low": 0.003718624466667477
+    },
+    "adaptive": {
+      "clean": 0.002649310472054032,
+      "noise_high": 0.21925667027761872,
+      "shadow": 0.0029006930763778127,
+      "faded": 0.0028917448736882384,
+      "jpeg_low": 0.002008039659929967
+    }
+  },
+  "denoise": {
+    "none": {
+      "psnr": 28.694402926413414,
+      "ssim": 0.6446558867598264,
+      "cer": 0.030872142669199534
+    },
+    "Gaussian 5x5": {
+      "psnr": 29.528599274911326,
+      "ssim": 0.8192411711656676,
+      "cer": 0.23814483861428162
+    },
+    "median 3": {
+      "psnr": 35.572845224059684,
+      "ssim": 0.9421445391806621,
+      "cer": 0.07483505621549887
+    },
+    "median 5": {
+      "psnr": 30.73224825726189,
+      "ssim": 0.9671416572420481,
+      "cer": 0.016814108323054293
+    },
+    "non-local means": {
+      "psnr": 29.398374560963443,
+      "ssim": 0.7590497518538902,
+      "cer": 0.03025736393718082
+    }
+  },
+  "skew": {
+    "mean_angle_error_deg": 0.04444444444444437,
+    "max_angle_error_deg": 0.5,
+    "angle_error_by_condition": {
+      "clean": 0.0,
+      "rot_3": 0.050000000000000044,
+      "rot_8": 0.03888888888888875,
+      "rot_15": 0.08888888888888867
+    },
+    "cer": {
+      "with deskew": {
+        "clean": 0.003670895325253498,
+        "rot_3": 0.005623293566368036,
+        "rot_8": 0.01585760370622159,
+        "rot_15": 0.13404202440853386
+      },
+      "without deskew": {
+        "clean": 0.003670895325253498,
+        "rot_3": 0.006071581000515871,
+        "rot_8": 0.5628425015778715,
+        "rot_15": 0.9939668174962293
+      }
+    }
+  },
+  "resolution": {
+    "grayscale only": {
+      "200 dpi": 0.0017770571607763303,
+      "150 dpi": 0.0015256745564525493,
+      "100 dpi": 0.0018114408698655,
+      "70 dpi": 0.012153912130333294,
+      "50 dpi": 0.7035685397384542
+    },
+    "grayscale + upscale": {
+      "200 dpi": 0.0017770571607763303,
+      "150 dpi": 0.0019488867638312798,
+      "100 dpi": 0.0017351027887689008,
+      "70 dpi": 0.003184560413298033,
+      "50 dpi": 0.024859008340755603
+    },
+    "default pipeline": {
+      "200 dpi": 0.003670895325253498,
+      "150 dpi": 0.008414560560187108,
+      "100 dpi": 0.14127086613839954,
+      "70 dpi": 0.6332305322292396,
+      "50 dpi": 0.7815986928667289
+    }
+  },
+  "photo": {
+    "boundary_found_rate": 1.0,
+    "mean_iou": 0.988553963373283,
+    "cer": {
+      "raw image": 0.0013741848980274066,
+      "R3 default": 0.0019097560979548982,
+      "R5 full (boundary + perspective)": 0.001557637424175158
+    },
+    "n": 48
+  },
+  "psm": {
+    "overall": {
+      "PSM 3": 0.0030660874327076335,
+      "PSM 4": 0.0030660874327076335,
+      "PSM 6": 0.0030660874327076335,
+      "PSM 11": 0.0033097521500565614
+    },
+    "by_category": {
+      "PSM 3": {
+        "insurance_policy": 0.0029410250812464834,
+        "claim_form": 0.0038936179732765317,
+        "identity_document": 0.0,
+        "medical_bill": 0.001979713090366464,
+        "repair_invoice": 0.004840760307344847,
+        "other": 0.004741408144011478
+      },
+      "PSM 4": {
+        "insurance_policy": 0.0029410250812464834,
+        "claim_form": 0.0038936179732765317,
+        "identity_document": 0.0,
+        "medical_bill": 0.001979713090366464,
+        "repair_invoice": 0.004840760307344847,
+        "other": 0.004741408144011478
+      },
+      "PSM 6": {
+        "insurance_policy": 0.0029410250812464834,
+        "claim_form": 0.0038936179732765317,
+        "identity_document": 0.0,
+        "medical_bill": 0.001979713090366464,
+        "repair_invoice": 0.004840760307344847,
+        "other": 0.004741408144011478
+      },
+      "PSM 11": {
+        "insurance_policy": 0.0029410250812464834,
+        "claim_form": 0.0038936179732765317,
+        "identity_document": 0.0014619883040935672,
+        "medical_bill": 0.001979713090366464,
+        "repair_invoice": 0.004840760307344847,
+        "other": 0.004741408144011478
+      }
+    }
+  },
+  "classification": {
+    "overall_accuracy": {
+      "keyword": 0.9916666666666667,
+      "ml": 1.0,
+      "hybrid": 0.9944444444444445
+    },
+    "by_condition": {
+      "keyword": {
+        "clean": 1.0,
+        "noise_low": 1.0,
+        "noise_high": 1.0,
+        "salt_pepper": 1.0,
+        "blur_low": 1.0,
+        "blur_high": 1.0,
+        "rot_3": 1.0,
+        "rot_8": 1.0,
+        "rot_15": 0.9375,
+        "lowres_150": 1.0,
+        "lowres_100": 0.9375,
+        "shadow": 1.0,
+        "faded": 1.0,
+        "jpeg_low": 1.0,
+        "photo": 1.0
+      },
+      "ml": {
+        "clean": 1.0,
+        "noise_low": 1.0,
+        "noise_high": 1.0,
+        "salt_pepper": 1.0,
+        "blur_low": 1.0,
+        "blur_high": 1.0,
+        "rot_3": 1.0,
+        "rot_8": 1.0,
+        "rot_15": 1.0,
+        "lowres_150": 1.0,
+        "lowres_100": 1.0,
+        "shadow": 1.0,
+        "faded": 1.0,
+        "jpeg_low": 1.0,
+        "photo": 1.0
+      },
+      "hybrid": {
+        "clean": 1.0,
+        "noise_low": 1.0,
+        "noise_high": 1.0,
+        "salt_pepper": 1.0,
+        "blur_low": 1.0,
+        "blur_high": 1.0,
+        "rot_3": 1.0,
+        "rot_8": 1.0,
+        "rot_15": 0.9375,
+        "lowres_150": 1.0,
+        "lowres_100": 0.9791666666666666,
+        "shadow": 1.0,
+        "faded": 1.0,
+        "jpeg_low": 1.0,
+        "photo": 1.0
+      }
+    },
+    "hybrid_per_class": {
+      "insurance_policy": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "claim_form": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "identity_document": {
+        "precision": 1.0,
+        "recall": 0.975,
+        "f1": 0.9873417721518987
+      },
+      "medical_bill": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "repair_invoice": {
+        "precision": 1.0,
+        "recall": 0.9916666666666667,
+        "f1": 0.99581589958159
+      },
+      "other": {
+        "precision": 0.967741935483871,
+        "recall": 1.0,
+        "f1": 0.9836065573770492
+      }
+    },
+    "heldout_template": {
+      "keyword/clean": 1.0,
+      "ml/clean": 0.7875,
+      "hybrid/clean": 1.0,
+      "keyword/noisy": 0.9875,
+      "ml/noisy": 0.7208,
+      "hybrid/noisy": 1.0
+    },
+    "n": 720
+  },
+  "fields": {
+    "overall_oracle": 0.8862068965517241,
+    "overall_pipeline": 0.8847701149425288,
+    "by_category": {
+      "insurance_policy": 0.8785714285714286,
+      "claim_form": 0.8944444444444445,
+      "identity_document": 0.8833333333333333,
+      "medical_bill": 0.9066666666666666,
+      "repair_invoice": 0.87
+    },
+    "by_condition": {
+      "clean": 0.978448275862069,
+      "noise_low": 0.978448275862069,
+      "noise_high": 0.8577586206896551,
+      "salt_pepper": 0.978448275862069,
+      "blur_low": 0.9612068965517241,
+      "blur_high": 0.646551724137931,
+      "rot_3": 0.9568965517241379,
+      "rot_8": 0.8620689655172413,
+      "rot_15": 0.6810344827586207,
+      "lowres_150": 0.9482758620689655,
+      "lowres_100": 0.5431034482758621,
+      "shadow": 0.978448275862069,
+      "faded": 0.9698275862068966,
+      "jpeg_low": 0.9698275862068966,
+      "photo": 0.9827586206896551
+    },
+    "per_field": {
+      "claim_form.claim_amount": 0.8833333333333333,
+      "claim_form.claim_description": 0.8916666666666667,
+      "claim_form.claim_number": 0.975,
+      "claim_form.customer_name": 0.7,
+      "claim_form.incident_date": 0.9416666666666667,
+      "claim_form.policy_number": 0.975,
+      "identity_document.date_of_birth": 0.85,
+      "identity_document.document_type": 0.9083333333333333,
+      "identity_document.expiry_date": 0.9416666666666667,
+      "identity_document.father_name": 0.9666666666666667,
+      "identity_document.id_number": 0.8083333333333333,
+      "identity_document.name": 0.825,
+      "insurance_policy.coverage_amount": 0.9,
+      "insurance_policy.customer_name": 0.7916666666666666,
+      "insurance_policy.insurance_company": 0.8083333333333333,
+      "insurance_policy.policy_end_date": 0.9,
+      "insurance_policy.policy_number": 0.9416666666666667,
+      "insurance_policy.policy_start_date": 0.9166666666666666,
+      "insurance_policy.premium_amount": 0.8916666666666667,
+      "medical_bill.hospital_name": 0.825,
+      "medical_bill.invoice_date": 0.9833333333333333,
+      "medical_bill.invoice_number": 0.8916666666666667,
+      "medical_bill.patient_name": 0.8833333333333333,
+      "medical_bill.total_amount": 0.95,
+      "repair_invoice.garage_name": 0.8833333333333333,
+      "repair_invoice.invoice_number": 0.9666666666666667,
+      "repair_invoice.repair_date": 1.0,
+      "repair_invoice.total_repair_cost": 0.9666666666666667,
+      "repair_invoice.vehicle_details": 0.5333333333333333
+    },
+    "weakest": [
+      [
+        "repair_invoice.vehicle_details",
+        0.5333333333333333
+      ],
+      [
+        "claim_form.customer_name",
+        0.7
+      ],
+      [
+        "insurance_policy.customer_name",
+        0.7916666666666666
+      ],
+      [
+        "identity_document.id_number",
+        0.8083333333333333
+      ],
+      [
+        "insurance_policy.insurance_company",
+        0.8083333333333333
+      ],
+      [
+        "identity_document.name",
+        0.825
+      ],
+      [
+        "medical_bill.hospital_name",
+        0.825
+      ],
+      [
+        "identity_document.date_of_birth",
+        0.85
+      ]
+    ]
+  },
+  "timing": {
+    "200 DPI (1654 px)": {
+      "grayscale": 2.3932499995377534,
+      "denoise": 1.8747666666361813,
+      "threshold": 62.668500003686255,
+      "deskew": 78.00638333113359,
+      "morphology": 6.15868333503992,
+      "resize": 1.726075001594533,
+      "OCR (Tesseract)": 324.8183333344059,
+      "classify": 12.426608333043987,
+      "extract": 1.5532083343714476,
+      "validate": 0.06424166591993223,
+      "total_ms": 491.6900500053695
+    },
+    "300 DPI (2481 px)": {
+      "grayscale": 3.2129166672045053,
+      "denoise": 3.8046333308254057,
+      "threshold": 135.3240999984943,
+      "deskew": 76.0587833331859,
+      "morphology": 14.736908331542509,
+      "resize": 0.056641668682762734,
+      "OCR (Tesseract)": 394.54113333461765,
+      "classify": 4.782075000548502,
+      "extract": 0.9506250001625934,
+      "validate": 0.05147499905433506,
+      "total_ms": 633.5192916643185
+    }
+  },
+  "validation": {
+    "cases": 360,
+    "status_accuracy": 1.0,
+    "per_code": {
+      "CLAIM_NUMBER_MISSING": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "DATE_ORDER": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "FUTURE_DATE": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "INVALID_AMOUNT": {
+        "tp": 60,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "INVALID_DATE": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "LOW_CONFIDENCE_FIELD": {
+        "tp": 30,
+        "fp": 30,
+        "fn": 0,
+        "precision": 0.5,
+        "recall": 1.0
+      },
+      "LOW_OCR_CONFIDENCE": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "MISSING_FIELD": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "POLICY_EXPIRED": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      "POLICY_NUMBER_MISSING": {
+        "tp": 30,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    },
+    "by_defect": {
+      "missing policy number": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "absurd premium": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "zero premium": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "control (no defect)": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "impossible date (31/02)": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "expiry before start": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "poor OCR quality": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "control claim (no defect)": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "missing premium": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "incident date in the future": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "expired policy": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      },
+      "missing claim number": {
+        "cases": 30,
+        "status_accuracy": 1.0,
+        "exact_issue_match": 1.0
+      }
+    }
+  }
+}

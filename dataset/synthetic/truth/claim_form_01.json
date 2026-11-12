@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_01",
+ "category": "claim_form",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Evergreen Life and General Notice of Loss Claim Reference CLM-2026-40235 Policy No POL-2026-487059 Insured Pooja Iyer Date of loss 26-10-2024 Place of incident Kolkata Estimated loss 356,600 Police report / FIR number 660/2025",
+ "fields": {
+  "claim_number": "CLM-2026-40235",
+  "policy_number": "POL-2026-487059",
+  "customer_name": "Pooja Iyer",
+  "incident_date": "2024-10-26",
+  "claim_amount": "356600.00",
+  "claim_description": null
+ }
+}

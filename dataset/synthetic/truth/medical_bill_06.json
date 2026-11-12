@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_06",
+ "category": "medical_bill",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "Precision Pathology Lab Diagnostic and Pathology Laboratory Invoice LAB-2024-16494 Patient name Pooja Khan Tests: CBC, LFT, X-ray (radiology) Consultation charges 950.00 Total 421,050 Referred by Dr. Meera Mehta",
+ "fields": {
+  "hospital_name": "Precision Pathology Lab Diagnostic and Pathology Laboratory",
+  "patient_name": "Pooja Khan",
+  "invoice_number": "LAB-2024-16494",
+  "invoice_date": null,
+  "total_amount": "421050.00"
+ }
+}

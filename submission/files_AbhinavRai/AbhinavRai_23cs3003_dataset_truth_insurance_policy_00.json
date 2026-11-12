@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_00",
+ "category": "insurance_policy",
+ "template": "A",
+ "font": "arial.ttf",
+ "text": "Sunrise Mutual Insurance POLICY SCHEDULE Policy No: POL-2025-177763 Policyholder: Amit Gupta Period of Insurance: 04-08-2023 to 2023-10-14 Sum Insured: Rs. 3,018,850 Premium: Rs. 26400.00 This schedule forms part of your policy and should be read with the policy wording.",
+ "fields": {
+  "customer_name": "Amit Gupta",
+  "policy_number": "POL-2025-177763",
+  "insurance_company": "Sunrise Mutual Insurance",
+  "policy_start_date": "2023-08-04",
+  "policy_end_date": "2023-10-14",
+  "premium_amount": "26400.00",
+  "coverage_amount": "3018850.00"
+ }
+}

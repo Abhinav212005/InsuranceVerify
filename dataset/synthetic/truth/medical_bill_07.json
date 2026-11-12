@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_07",
+ "category": "medical_bill",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "Discharge Summary and Bill Admitted 24-01-2024, discharged 21-12-2025 Ward: General Surgery performed: knee arthroscopy Operation theatre charges 50150.00 Medical expenses total 386300.00 Insurance TPA: Sunrise Mutual Insurance",
+ "fields": {
+  "hospital_name": null,
+  "patient_name": null,
+  "invoice_number": null,
+  "invoice_date": "2025-12-21",
+  "total_amount": "386300.00"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_05",
+ "category": "insurance_policy",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Crestline Insurance Co. Co. Ltd. Certificate of Insurance Policy Number POL-2023-328921 Insured Name Manish Thakur Valid from 26/09/2025 valid until 27/11/2023 Coverage 209,350 Deductible Rs. 1200.00 Exclusions apply as listed in the policy wording.",
+ "fields": {
+  "customer_name": "Manish Thakur",
+  "policy_number": "POL-2023-328921",
+  "insurance_company": "Crestline Insurance Co. Co. Ltd",
+  "policy_start_date": "2025-09-26",
+  "policy_end_date": "2023-11-27",
+  "premium_amount": null,
+  "coverage_amount": "209350.00"
+ }
+}

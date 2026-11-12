@@ -1,0 +1,14 @@
+{
+  "docs": 2880,
+  "noise": 0.06,
+  "source": "synthetic corpus (app/classification/synthetic.py)",
+  "trained_at": "2026-11-11T21:00:47.717755+00:00",
+  "labels": [
+    "claim_form",
+    "identity_document",
+    "insurance_policy",
+    "medical_bill",
+    "other",
+    "repair_invoice"
+  ]
+}

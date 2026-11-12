@@ -1,0 +1,15 @@
+{
+ "id": "claim_form_03",
+ "category": "claim_form",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "First Notice of Loss - Reporting Party: Vikram Reddy Reference: CLM-2024-91454 What happened: Rear-end collision at a traffic signal, bumper and boot damaged When: 19-09-2023 Where: Chennai Loss report estimate 739,600 Contact the claims desk for updates.",
+ "fields": {
+  "claim_number": "CLM-2024-91454",
+  "policy_number": null,
+  "customer_name": "Vikram Reddy",
+  "incident_date": "2023-09-19",
+  "claim_amount": "739600.00",
+  "claim_description": "Rear-end collision at a traffic signal, bumper and boot damaged"
+ }
+}

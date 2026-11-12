@@ -1,0 +1,16 @@
+{
+ "id": "insurance_policy_01",
+ "category": "insurance_policy",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "Northstar General Insurance Co. Ltd. Certificate of Insurance Policy Number POL-2023-636083 Insured Name Aarav Sharma Valid from 2026-08-25 valid until 2024-06-08 Coverage 1533800.00 Deductible Rs. 3150.00 Exclusions apply as listed in the policy wording.",
+ "fields": {
+  "customer_name": "Aarav Sharma",
+  "policy_number": "POL-2023-636083",
+  "insurance_company": "Northstar General Insurance Co. Ltd",
+  "policy_start_date": "2026-08-25",
+  "policy_end_date": "2024-06-08",
+  "premium_amount": null,
+  "coverage_amount": "1533800.00"
+ }
+}

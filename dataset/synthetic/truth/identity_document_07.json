@@ -1,0 +1,15 @@
+{
+ "id": "identity_document_07",
+ "category": "identity_document",
+ "template": "D",
+ "font": "verdana.ttf",
+ "text": "REPUBLIC OF INDIA PASSPORT Type P Country Code IND Passport No. B9794179 Surname Kulkarni Given names Kavya Nationality INDIAN Date of birth 1989-03-17 Place of birth Mumbai Date of issue 26-05-2023",
+ "fields": {
+  "document_type": "Passport",
+  "name": "Kavya Kulkarni",
+  "id_number": "B9794179",
+  "date_of_birth": "1989-03-17",
+  "father_name": null,
+  "expiry_date": null
+ }
+}

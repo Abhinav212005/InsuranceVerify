@@ -1,0 +1,14 @@
+{
+ "id": "medical_bill_05",
+ "category": "medical_bill",
+ "template": "B",
+ "font": "calibri.ttf",
+ "text": "St. Marks Hospital - In-patient Bill Bill No B-2023-90546 Patient Pooja Singh Treating Doctor Dr. Neha Das Diagnosis viral fever with dehydration Bed charges, Nursing charges, Investigation charges, Medicine charges Grand total 518,800",
+ "fields": {
+  "hospital_name": "St. Marks Hospital",
+  "patient_name": "Pooja Singh",
+  "invoice_number": "B-2023-90546",
+  "invoice_date": null,
+  "total_amount": "518800.00"
+ }
+}

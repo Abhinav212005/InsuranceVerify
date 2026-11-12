@@ -1,0 +1,14 @@
+{
+ "id": "repair_invoice_06",
+ "category": "repair_invoice",
+ "template": "C",
+ "font": "times.ttf",
+ "text": "Prime Body Shop Estimate for repair Vehicle: Maruti Swift (MH38ZS3871) Chassis No 97DW908M81ER Work: bumper replacement, painting Labour 19500.00 Parts 7,900 Payable 73,100 This estimate is to be submitted to your insurer.",
+ "fields": {
+  "garage_name": "Prime Body Shop",
+  "vehicle_details": "Maruti Swift, MH38ZS3871",
+  "invoice_number": null,
+  "repair_date": null,
+  "total_repair_cost": "73100.00"
+ }
+}
